@@ -1,0 +1,438 @@
+accession,n_traits,total_trait_envs,deepest_trait_envs,n_traits_ge2env,snptools_evidence,PLANT_NAME,collection,IMPROVEMENT_LEVEL,countryOfOriginCode,pedigree
+PI 550473,48,1496,70,38,pi_link,B73,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Selected from advanced recurrent selection population (C5) of Iowa Stiff Stalk Synthetic (BSSS).
+PI 558532,46,879,36,33,pi_link,Mo17,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,CI 187-2/C103
+PI 198897,45,58,3,12,name_match_only,4F-306 108,Maize.Group.Ames.Panel.2010,Breeding material,ARG,
+PI 257506,45,148,7,27,pi_link,F2,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,FRA,Open Pollinated Lacaune.
+PI 358523,45,76,4,22,pi_link,Il14H,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,
+PI 257507,44,95,5,26,pi_link,F7,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,FRA,Open Pollinated Lacaune.
+PI 257513,43,68,4,19,pi_link,F115,Maize.Group.Ames.Panel.2010,Breeding material,FRA,Ia 153 (USA).
+PI 587131,42,54,6,7,name_match_only,HP301,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Supergold Popcorn
+PI 587139,40,861,37,31,pi_link,A619,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,[(A171 X Oh43) Oh43]
+PI 587140,39,849,36,31,pi_link,A632,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,[(Mt42 X B14) B14(3)]
+PI 550467,38,76,9,27,pi_link,B37,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Selected from Iowa Stiff Stalk Synthetic. (BSSS-C0)
+PI 587128,38,109,5,28,pi_link,H84,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(B37 x GE440)HtHt
+PI 587124,38,823,34,31,pi_link,CM105,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,CAN,V3 / 2* B14
+PI 587153,37,829,37,31,pi_link,W117,Maize.Group.Ames.Panel.2010,Breeding material,USA,(643 x Minn. 13)
+PI 690332,37,58,4,17,pi_link,Oh43,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Oh40B X W8
+PI 587137,37,61,5,19,name_match_only,Ms71,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,A619 x R168
+PI 600958,36,54,4,14,pi_link,FAPW,Maize.Group.PVP,Cultivar,USA,B14AH X B37H .  B14AH is a backcross recovered B14A line with the northern leaf blight resistance gene Ht1 donated by the inbred LFP.  B37H is a backcross recovered B37 with the Ht1 gene donated by Ge440.
+PI 600791,36,77,4,27,pi_link,LH38,Maize.Group.PVP,Cultivar,USA,A619Ht x L120 .  L120 is a Holden's Foundation Seeds private line related to the Oh43 family of maize.
+PI 600751,36,54,4,14,name_match_only,Seagull Seventeen,Maize.Group.PVP,Cultivar,USA,Mo17 X (other unknown parent) .  First observed as an off type in a large field of Mo17.
+PI 564682,36,77,4,26,pi_link,B97,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Iowa Corn Borer Synthetic No. 1 [BSCB1(R)C9]-2
+PI 587148,36,104,5,28,name_match_only,CI 66,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,L97 X K55 (2)
+PI 601004,35,77,4,28,pi_link,LH132,Maize.Group.PVP,Cultivar,USA,(H93 X B73) X B73
+PI 600729,35,64,3,27,name_match_only,LP1 NR HT,Maize.Group.PVP,Cultivar,USA,182Ht1-Blk-1 .  182Ht1-Blk-1 is a private selection related to A632 with Helminthosporium turcicum resistance and was the recurrent male parent.
+PI 601005,35,77,4,29,pi_link,PH207,Maize.Group.PVP,Cultivar,USA,G3BD2 X G3RZ1 specifically G3BD2/G3RZ1)X154X1X
+PI 601006,35,77,4,29,pi_link,PHG50,Maize.Group.PVP,Cultivar,USA,848 X 207 specifically 848/207)X1321X
+PI 601008,35,92,4,29,pi_link,PHG35,Maize.Group.PVP,Cultivar,USA,G3BD2 X H7FS6 specifically G3BD2<4B3W37A/H7FS6)X8112111
+PI 601026,35,75,4,28,pi_link,F42,Maize.Group.PVP,Cultivar,USA,Mutation induction of B73 with nitrosoquanidine.
+PI 369437,35,47,3,11,pi_link,80-2,Maize.Group.Ames.Panel.2010,Breeding material,POL,
+PI 601211,35,75,4,27,pi_link,78010,Maize.Group.PVP,Cultivar,USA,B73 X A634 .  B73 derives from Iowa Stiff Stalk Synthetic.  A634 is (Mt42 X B14 BC3).
+PI 600981,35,76,4,28,pi_link,PHG39,Maize.Group.PVP,Cultivar,USA,A33GB4 x A34CB4 specifically A33GB4/A34CB4)X312XE
+PI 601320,34,73,4,27,pi_link,PHG84,Maize.Group.PVP,Cultivar,USA,"848 X 595 specifically 848/595)X2X11242 .  Variety 595 was derived from pedigree selection from PHAN0 X 082. Variety PHAN0 was derived from Female Composite Open Pollinated. The open pollinated means that after the bridging crosses were made it was open pollinated. Variety 082 was derived from OH07 and an inbred derived from Midland Yellow Dent from Kansas.  Variety 595 has a relative genotypic contribution from 50% Female Composite, 25% Midland Yellow Dent, 12.5% Illinois Long Ear, and 12.5% Illinois Two Ear."
+PI 693334,34,58,6,17,pi_link,R168,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Illinois Synthetic
+PI 550441,34,114,6,27,pi_link,Mo18W,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,WF9/Mo22
+PI 690331,34,45,5,6,pi_link,Oh7B,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,See Hansey et.al. 2011
+PI 690329,34,147,7,25,pi_link,NC350,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Derived from an experimental line sharing the same pedigree of NC296 with an experimental line from the hybrid H101 from El Salvador
+PI 601316,34,98,5,27,pi_link,LH54,Maize.Group.PVP,Cultivar,USA,(Mo17 X (610 X Mo17)) X Mo17
+PI 601159,34,49,3,13,pi_link,6103,Maize.Group.PVP,Cultivar,USA,(10631 X A632) X (RB14AHtA X RB14AHtB) .  10631 is an Asgrow proprietary inbred.  The other three inbreds are public lines.
+PI 601170,34,76,4,28,pi_link,LH82,Maize.Group.PVP,Cultivar,USA,610 X LH7
+PI 600944,34,88,4,27,pi_link,LH39,Maize.Group.PVP,Cultivar,USA,Oh43 x L120 .  Oh43 was developed by the Ohio Agricultural Research and Development Center and released in 1949.  L120 is a Holden's Foundation Seeds private line related to the Oh43 family of maize.
+PI 550472,33,51,3,16,pi_link,B57,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Selected from open-pollinated 'Midland'.
+PI 506246,33,103,6,25,name_match_only,Tzi 8,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,NGA,TZB/TZSR
+PI 601584,33,61,3,26,pi_link,OQ603,Maize.Group.PVP,Cultivar,USA,Pioneer 3713 hybrid
+PI 693397,33,76,4,26,pi_link,Oh40B,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,8-line composite of Lancaster Surecrop lines
+PI 690326,33,75,4,27,pi_link,Ky21,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,See Hansey et.al. 2011
+NSL 30053,33,67,4,17,pi_link,W22,Maize.Group.Ames.Panel.2010,Breeding material,USA,See Hansey et.al. 2011
+PI 693333,33,39,4,3,pi_link,H95,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,OH43 x CI90A
+PI 601404,32,61,3,27,pi_link,LH60,Maize.Group.PVP,Cultivar,USA,LH55 X LH47 .  LH55 and LH47 are proprietary lines of Holden's.  The pedigree of LH47 is (Va35 X H20) X Va35 and the pedigree of LH55 is (Mo17 X W64A) X Mo17.
+PI 693326,32,65,4,16,name_match_only,Va59,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(C103 x T8^2)(K4 x C103^2)
+PI 601783,32,51,3,17,pi_link,PHN82,Maize.Group.PVP,Cultivar,USA,PHG29 X HD38 specifically PHG29/HD38)X5333X
+PI 607381,32,49,3,15,pi_link,B110,Maize.Group.Ames.Panel.2010,Breeding material,USA,BS13(S)C5-12-2-1-1-1-1-1-1-1-1
+PI 601301,32,69,4,25,pi_link,78002A,Maize.Group.PVP,Cultivar,USA,B73 X A634 .  B73 derives from Iowa Stiff Stalk Synthetic.  A634 is (Mt42 X B14 BC3).
+PI 595541,32,86,5,25,name_match_only,CML 247,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,Pool 24: (Pool 24 FS119*FS54)-6-4-1-1-BB-f .  Pool 24 is also named Tropical late white dent (TLWD) and its components are mainly Tuxpeno materials from Mexico and late maturity materials from Central America.
+Ames 27196,32,65,4,17,name_match_only,Yu796_NS,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,SRB,Vucovar Yellow dent variety
+PI 595550,32,111,8,14,name_match_only,CML 277,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,"Population 43: Ferke 8243-51-1-1-B-##-1-BB-# .  Population 43 is also named La Posta and its components is a Tuxpeno synthetic composed of 16 inbred lines (1 ETO Blanco S1 & 15 S1s of Tuxpe?o collection, formed in 1963)."
+PI 693327,32,98,4,27,pi_link,C103,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Lancaster Surecrop (from Noah Hershey)
+PI 693367,31,47,3,15,pi_link,IL101T,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,
+PI 690401,31,50,3,17,pi_link,NC310,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Improved B73-type line derived from NC250 x B73
+PI 601784,31,34,2,3,pi_link,PHP55,Maize.Group.PVP,Cultivar,USA,PHG44 X PHG29 specifically PHG44/PHG29)X31R11X
+PI 601375,31,57,2,26,pi_link,778,Maize.Group.PVP,Cultivar,CAN,W117 X B37Ht .  W117 is a public line developed by the Wisconsin Agricultural Experiment Statation derived from 643 X Minnesota 13.  B37Ht is a Northrup King proprietary line developed from B37 a line developed at Iowa State University.
+PI 601575,31,83,4,27,pi_link,PHW52,Maize.Group.PVP,Cultivar,USA,B73 X G39 specifically B73/G39)X411242X
+PI 601788,31,59,3,26,pi_link,PHT22,Maize.Group.PVP,Cultivar,USA,207 X HD12 specifically 207/HD12)X7113XX
+PI 601781,31,34,2,3,pi_link,PHN37,Maize.Group.PVP,Cultivar,USA,"CM11 X 041Ht specifically CM11/041Ht)X33213X.  CM11 and 041Ht are proprietary lines of Pioneer Hi-Bred International, Inc."
+PI 685984,31,68,4,22,pi_link,792,Maize.Group.PVP,Cultivar,USA,"Since the PVP application was withdrawn, public PVP certificate and pedigree was not available.  SNP analysis indicated that of over two thousand lines analyzed, 790, 793, and 794 were the most closely related.  Their pedigrees were give as 235 X B73 with 235 being a proprietary derivitive of A635.  It seems likely that at least some portion of this inbred's pedigree contains these inbreds."
+PI 693374,31,48,3,16,pi_link,Oh43E,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,See Hansey et.al. 2011
+PI 601792,31,33,2,2,pi_link,PHW43,Maize.Group.PVP,Cultivar,USA,995 X G35 specifically 995/G35)X33311X
+PI 601567,31,34,2,3,pi_link,PHH93,Maize.Group.PVP,Cultivar,USA,PH806 X 207 specifically  PH806/207)X62111 .  Both PH806 and 207 are proprietary lines of Pioneer.
+PI 706557,31,90,6,15,pi_link,Ki21,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,THA,Pacific 9-S8-45
+PI 693348,31,91,5,27,pi_link,H49,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(WF9 x L97)WF9
+PI 601775,31,34,2,3,pi_link,PHJ70,Maize.Group.PVP,Cultivar,USA,"AC26 X B73Ht specifically AC26/B73Ht)X9312121X.  AC26 is a proprietary inbred of Pioneer Hi-Bred International, Inc. and B73Ht is a public inbred line selected from Iowa Stiff Stalk Synthetic and Iowa State University."
+PI 550558,31,36,3,4,name_match_only,DE811,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Developed from selfing and selection for 6 generations the cross B68 and an inbred derived from B37 Ht//(C103/Mp3204 double cross)selection.
+PI 601360,31,48,3,15,pi_link,LH52,Maize.Group.PVP,Cultivar,USA,(Mo17 X (610 X Mo17)) X Mo17
+PI 690324,31,134,9,16,pi_link,Ki3,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,THA,Suwan 1(S)C4-S8-5-3 (2007)
+PI 693362,31,98,5,26,pi_link,EP1,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,ESP,Spanish population 'Lizargarate'
+PI 607384,31,50,3,16,pi_link,B114,Maize.Group.Ames.Panel.2010,Breeding material,USA,CIMMYT Pool 41-C15-19-2-1-1-1-1-1-1-1-1
+PI 601776,31,34,2,3,pi_link,PHJ75,Maize.Group.PVP,Cultivar,CAN,207 X G96 specifically 207/G96)X12241
+PI 690321,31,63,4,16,name_match_only,CML 322,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,Recy W.: 89[L/LMBR]17-B-5-3-1-4-B*4
+PI 538007,30,71,4,26,pi_link,LH127,Maize.Group.PVP,Cultivar,USA,(LH122 X LH58) X LH122
+PI 537100,30,54,2,24,pi_link,LH210,Maize.Group.PVP,Cultivar,USA,"LH51 X BS11LHC3S3  The population, BS11LHC3 was developed by Holden's Foundation Seeds from the original poulation BS11RFC3 obtained from Iowa State University in 1977."
+PI 601566,30,32,2,2,pi_link,MBST,Maize.Group.PVP,Cultivar,USA,4726-1 X LH38 .  The PVP certificate indicates pollen harvested from LH38 in Indiana was used to pollinate 4726-1 in Ohio. 
+PI 565103,30,54,2,24,pi_link,PHFA5,Maize.Group.PVP,Cultivar,USA,PHK76 X (PHG49 X PHG25) specifically PHK76/PHG48*PHG25)X642116412
+PI 601489,30,35,3,4,pi_link,740,Maize.Group.PVP,Cultivar,USA,Mo17 X Mexican Deep Kernel.  Mo17 is a public inbred line developed by the University of Missouri from the cross 187-2 X Cl03. Mexican Deep Kernel is a Northrup King Co. proprietary open pollinated deep kernel source variety obtained from Mexico. 
+PI 537099,30,33,2,3,pi_link,LH205,Maize.Group.PVP,Cultivar,USA,LH74 X LH119
+PI 565101,30,54,2,24,pi_link,PHEM9,Maize.Group.PVP,Cultivar,CAN,PHB49 X PHJ40 specifically PHB49/PHJ40)XA82K21K22K22K21K2
+PI 565100,30,54,2,24,pi_link,PHAW6,Maize.Group.PVP,Cultivar,USA,PHN82 X PHM49 specifically PHN82/PHM49)MWX822345X
+PI 601470,30,68,3,27,pi_link,PHV78,Maize.Group.PVP,Cultivar,USA,"G42 X 595 specifically G42/595)X1112X .  Variety 595 was derived from pedigree selection from PHAN0 X 082. Variety PHAN0 was derived from Female Composite Open Pollinated. The open pollinated means that after the bridging crosses were made it was open pollinated. Variety 082 was derived from OH07 and an inbred derived from Midland Yellow Dent from Kansas.  Variety 595 has a relative genotypic contribution from 50% Female Composite, 25% Midland Yellow Dent, 12.5% Illinois Long Ear, and 12.5% Illinois Two Ear."
+PI 559950,30,82,4,24,pi_link,PHT73,Maize.Group.PVP,Cultivar,USA,PHK05 X PHG68 specifically PHK05/PHG68)X922312241X
+PI 539921,30,71,4,26,pi_link,LH162,Maize.Group.PVP,Cultivar,USA,ND246 X Early Mo17 Composite
+PI 559384,30,55,2,25,name_match_only,ICI 986,Maize.Group.PVP,Cultivar,USA,Pioneer 3540 hybrid.  This hybrid was selfed as Pioneer Brand experimental hybrid X0165.
+PI 601610,30,57,3,26,pi_link,H8431,Maize.Group.PVP,Cultivar,USA,"(377 X B386) X 347 .  All three parents are Northrup King proprietary lines originating from derivatives of Iowa Stiff Stalk Synthetic. Specifically, 377 derived from Iowa's B73, B386 derived from Minnesota's A632, and 347 derived from Iowa's B14. "
+PI 550532,30,47,3,16,pi_link,ND251,Maize.Group.Ames.Panel.2010,Breeding material,USA,"Selected from Rumanian Syn. D, with 7 generations of self- pollination and selection for plant and ear traits."
+PI 559381,30,60,4,25,name_match_only,ICI 441,Maize.Group.PVP,Cultivar,USA,Pioneer 3377 hybrid X BEAD.  P3377 is a Pioneer proprietary hybrid.  BEAD is equivalent to Holden's proprietary line LH132.  Five plants of P3377 were pollinated with pollen from BEAD.
+PI 550489,30,47,3,16,pi_link,ND245,Maize.Group.Ames.Panel.2010,Breeding material,USA,CK98/ND12Rf
+PI 601684,30,33,2,3,pi_link,WIL900,Maize.Group.PVP,Cultivar,USA,82C43-913-4-3-3-1-1 .  Wilson proprietary exotic population 82C43 was formed by intermating the public line Mo17 and selections from the race Tuxpeno.
+PI 601686,30,34,2,4,pi_link,WIL903,Maize.Group.PVP,Cultivar,USA,82C43-913-3-2-1-1-1 .  Wilson proprietary exotic population 83C43 was formed by intermating the public line Mo17 and selections from the race Tuxpeno.
+PI 601728,30,34,2,4,name_match_only,L 139,Maize.Group.PVP,Cultivar,FRA,Pioneer 3901 hybrid X Pioneer 3780 hybrid.
+PI 539923,30,34,2,4,pi_link,LH194,Maize.Group.PVP,Cultivar,USA,LH117 X LHE137 .  LH117 and LHE137 are both proprietary lines of Holden's.  LH117 was derived from public inbreds H93 and B73. The pedigree of LH117 is B73 X LH1 and the pedigree of LHE137 is (B73 X H60) X B73.
+PI 548807,30,78,3,24,pi_link,PHT11,Maize.Group.PVP,Cultivar,USA,G39 X PHG69 specifically G39/PHG69)XQ3K61K31K7AOK41
+PI 548806,30,100,4,25,pi_link,PHR61,Maize.Group.PVP,Cultivar,USA,G39 X PHG69 specifically 39/PHG69)XQ3K312K21K21
+PI 559943,30,82,4,24,pi_link,PHN18,Maize.Group.PVP,Cultivar,USA,PHDK6 X PHNN2 specifically PHDK6/PHNN2)X1111K113
+PI 543848,30,30,1,0,pi_link,PHW06,Maize.Group.PVP,Cultivar,CAN,207 X PHG36 specifically 207/PHG36)X12321
+PI 543844,30,63,3,23,pi_link,PHN46,Maize.Group.PVP,Cultivar,USA,PHZ51 X PHV78 specifically PHZ51/PHV78)X1113X
+PI 601574,30,57,3,26,pi_link,PHT60,Maize.Group.PVP,Cultivar,USA,PHW94 X PHV80 specifically PHW94/PHV80)2111
+PI 565104,30,54,2,24,pi_link,PHHB9,Maize.Group.PVP,Cultivar,USA,PHG86 X PHW52 specifically PHG86/PHW52)X1111XX
+PI 565102,30,54,2,24,pi_link,PHEW7,Maize.Group.PVP,Cultivar,USA,G39 X PHK29 specifically G39/PHK29)XA11211XX
+Ames 23507,30,54,11,15,pi_link,C42,Maize.Group.Ames.Panel.2010,Breeding material,USA,Golden Bantam
+PI 601560,30,49,3,18,pi_link,2MA22,Maize.Group.PVP,Cultivar,USA,4780 X 5P9-1 .  The pedigree of 4780 is A2E X MDF-13A.  The pedigree of 5P9-1 is A295 X 3J3.
+PI 601502,30,33,2,3,pi_link,W8304,Maize.Group.PVP,Cultivar,USA,"(B14A X B73) X B73 . Both parents are public inbred lines originating from the Iowa Agricultural Experiment Station, Ames, Iowa. "
+PI 198892,30,33,2,3,name_match_only,4F-234 BX 4,Maize.Group.Ames.Panel.2010,Breeding material,ARG,
+PI 690610,30,61,4,16,name_match_only,CML 323,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,"Population 33: P 33c2(STE)-102-2-B-2-B-1-B*3 .  Population 33 is also named Subtropical Temperate Intermediate Yellow Flint its components are yellow/orange flint segregates from the same germplasm used to form Pool 31, in addition to ""Temperate yellow flint composite"" (including germplasm from Europe, China, Mexico, Central and South America, and the USA), and other yellow germplasm from Europe, China, Mexico, South America, and the USA."
+PI 693330,30,82,4,26,pi_link,C123,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,C102 x C103
+PI 601458,30,33,2,3,pi_link,IBB15,Maize.Group.PVP,Cultivar,USA,J6 X (J6 X W70884) specifically J6''W70884-4223B.  J6 was derived by selfing Pioneer 3901 hybrid.  W70884 was derived by selfing Pioneer 3306 hybrid.
+PI 146368,30,76,5,27,name_match_only,CI 7,,Breeding material,USA,(JC33 x L317)-B-B-S1-2-3-X Composite
+PI 601498,30,46,3,15,pi_link,PHT55,Maize.Group.PVP,Cultivar,USA,A33GB4 x A34CB4 specifically A33GB4/A34CB4)X311A5
+PI 601417,30,55,3,24,pi_link,NS701,Maize.Group.PVP,Cultivar,USA,A632 X B73Ht
+PI 601558,30,56,3,25,pi_link,11430,Maize.Group.PVP,Cultivar,USA,"A composite of 12 private inbred lines whose background included Oh43, H99, and Mo17."
+PI 591619,30,33,2,3,pi_link,ZS1791,Maize.Group.PVP,Cultivar,USA,LH132 X LH117.  LH117 and LH132 are both proprietary lines of Holden's.  The pedigree of LH117 is B73 X LH1.
+PI 578034,30,30,1,0,pi_link,PHTE4,Maize.Group.PVP,Cultivar,USA,PHN15 X PHJ40 specifically PHN15/PHJ40)X21213KXX
+PI 693376,30,82,5,26,pi_link,SC55,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(L501 x L503) x (L548 x L569)
+PI 601441,30,32,2,2,pi_link,PB80,Maize.Group.PVP,Cultivar,USA,(1067-1 X B73) X (B73Ht.1 BC6)
+PI 578032,30,55,2,25,pi_link,PHEM7,Maize.Group.PVP,Cultivar,USA,PHT64 X PHW23 specifically PHT64/PHW23)X161142421X
+PI 601563,30,71,4,26,pi_link,87916W,Maize.Group.PVP,Cultivar,USA,(B73 X W37-2 -B1-1-B1) .  The original red cob 87916W was the result of selfing B73 backcrossed three times as the recurrent parent to the donor white line W37-2.  This red cob version was crossed again to W37-2 and the F1 was backcrossed twice to the original 87916W selecting for white kernel and white cob. 
+PI 601494,30,47,3,16,pi_link,LH65,Maize.Group.PVP,Cultivar,USA,"(Mo17 X LH18) X LH53 . LH53 is a proprietary line of Holdens and the pedigree is ""Mo17 HI"".
+"
+PI 690318,30,93,6,25,name_match_only,CML 69,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,"Population 36: P 36C5F37-2-1-1-b1#b1-b1#b1-b1 .  Population 36 is also named Cogollero and it is a Caribbean composite involving 165 accessions from all the Caribbean islands. About 50 families from the Insect Disease Resistance Nursery (IDRN) population, 20 families from Pool 22, and 26 families from Pool 26."
+PI 601493,30,32,2,2,pi_link,LH149,Maize.Group.PVP,Cultivar,USA,((A662 x B73 S1) X B73) X B73
+PI 601492,30,81,4,25,pi_link,793,Maize.Group.PVP,Cultivar,USA,235 X B73 .  The parent 235 is a Northrup King Co. proprietary line developed from a multiple ear source and the public line A635 from the Minnesota Agricultural Experiment station. The parent B73 is a public line released by the Iowa Agricultural Experiment station which was derived from Iowa state stiff stalk synthetic.
+PI 601438,30,33,2,3,pi_link,78371A,Maize.Group.PVP,Cultivar,USA,(4726 X Iowa Long Ear) X 4726.  Inbred 4726 is derived from the cross H4106 X 4301.  Iowa Long Ear (BSLE) is a heterogeneous population received from Dr. Arnel Hallauer at Iowa State University.
+PI 690328,30,139,7,25,pi_link,M162W,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,ZAF,K64R^2.B1138T
+Ames 2333,30,47,3,16,name_match_only,Yong 28,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+Ames 22747,30,46,2,16,pi_link,CM48,Maize.Group.Ames.Panel.2010,Cultivar,CAN,Selection from Greece.
+PI 565110,30,40,2,10,pi_link,PHRE1,Maize.Group.PVP,Cultivar,USA,PHJ40 X PHR47 specifically PHJ40/PHR47)XA72124412
+PI 583774,30,81,3,26,pi_link,ML606,Maize.Group.PVP,Cultivar,USA,LK2 X LH38 .  LK2 is a proprietary line of (H99 X Va26) X H99 parentage.  LH38 was derived from A619Ht x L120.
+PI 559916,29,31,2,2,pi_link,CS405,Maize.Group.PVP,Cultivar,USA,B73 X K81
+PI 587144,29,36,4,4,pi_link,Mo24W,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(K10 x Ky49/Ziler Hi-Cob)
+PI 595565,29,95,5,25,name_match_only,CML 287,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,"Population 24:(Pop.24 x Pop.27)-4-1-B-1-1-BB-## .  Population 24 is also named Antigua-Veracruz 181 and its components are Tuxpeno race collections Veracruz 181 and Antigua Group-2 (Antigua collections 1D to 8D).  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25)."
+PI 559917,29,78,4,25,pi_link,MQ305,Maize.Group.PVP,Cultivar,USA,Pioneer 3901 hybrid X CB59G .  The pedigree of CB59G is (R168 X B14A)B59(2).  CB59G is a stiff-stalk inbred from Cornelius Hybrids via Holden's Foundation Seeds.
+PI 565108,29,52,2,23,pi_link,PHMK0,Maize.Group.PVP,Cultivar,USA,PHK29 X PHME5 specifically PHK29/PHME5)XA21123312
+PI 559383,29,31,2,2,name_match_only,ICI 893,Maize.Group.PVP,Cultivar,USA,(B73 X Pa91) X B73
+PI 594080,29,34,3,3,pi_link,N534,Maize.Group.Ames.Panel.2010,Breeding material,USA,Inbred from Nebraska B synthetic following twelve cycles of full-sib recurrent selection to sub-optimal temperatures using growth chamber evaluations.
+PI 559382,29,55,3,25,name_match_only,ICI 740,Maize.Group.PVP,Cultivar,USA,Pioneer 3377 hybrid X BEAD.  P3377 is a Pioneer proprietary hybrid.  BEAD is equivalent to Holden's proprietary line LH132.  Five plants of P3377 were pollinated with pollen from BEAD.
+PI 594084,29,34,3,3,pi_link,N538,Maize.Group.Ames.Panel.2010,Breeding material,USA,Inbred from Nebraska S synthetic following multiple cycles of recurrent selection to sub-optimal temperatures using growth chamber evaluations and seedling tolerance to post-emergence freeze.
+PI 594086,29,33,3,3,pi_link,N540,Maize.Group.Ames.Panel.2010,Breeding material,USA,Inbred from Nebraska S synthetic following multiple cycles of recurrent selection to sub-optimal temperatures using growth chamber evaluations and seedling tolerance to post-emergence freeze.
+PI 594091,29,34,3,3,pi_link,N545,Maize.Group.Ames.Panel.2010,Breeding material,USA,Inbred from Nebraska S synthetic following multiple cycles of recurrent selection to sub-optimal temperatures using growth chamber evaluations and seedling tolerance to post-emergence freeze.
+PI 559375,29,55,3,25,pi_link,LH222,Maize.Group.PVP,Cultivar,USA,"LH74 X (LH74 X (LH74 X CM174) .  A public line CM174 released by the Canadian Agricultural Research Station in Morden, Manitoba was the donor line for earliness backrossed to the recurrent parent, proprietary Holden's Foundation Seeds, Inc. line LH74."
+PI 601490,29,69,4,24,pi_link,787,Maize.Group.PVP,Cultivar,USA,Va17 X Va29.  Both parents are public inbred lines developed at the Virginia Polytechnical Institute. The variety Va17 is derived from a cross WF9 X T8. The variety Va29 is derived from the open pollinated variety Golden Queen.
+PI 557569,29,58,3,25,pi_link,LH216,Maize.Group.PVP,Cultivar,USA,((LH51 X (LH51 X LH123Ht))S2) X LH51
+PI 557562,29,43,2,14,pi_link,LH197,Maize.Group.PVP,Cultivar,USA,"LH132 X B84 .  LH132 is a proprietary line of Holden's Foundation Seeds, Inc.  B84 is a public line developed by Iowa State University."
+PI 557557,29,34,2,5,pi_link,912,Maize.Group.PVP,Cultivar,USA,Pioneer 3737 hybrid
+PI 557556,29,34,2,5,pi_link,911,Maize.Group.PVP,Cultivar,USA,Pioneer 3737 hybrid
+PI 559919,29,31,2,2,pi_link,OQ101,Maize.Group.PVP,Cultivar,USA,Pioneer 3906 hybrid X ND246
+PI 559944,29,59,4,25,pi_link,PHP85,Maize.Group.PVP,Cultivar,USA,PHK29 X PHW52 specifically PHK29/PHW52)X521112135X
+PI 559920,29,31,2,2,pi_link,OQ403,Maize.Group.PVP,Cultivar,USA,Pioneer 3901 hybrid X K81-336
+PI 559921,29,55,3,25,pi_link,OS602,Maize.Group.PVP,Cultivar,USA,Pioneer 3901 hybrid X CM105
+PI 565109,29,77,3,24,pi_link,PHN41,Maize.Group.PVP,Cultivar,USA,PHDK6 X PHNN2 specifically PHDK6/PHNN2)X4111K1111X
+PI 566938,29,29,1,0,pi_link,CQ702RC,Maize.Group.PVP,Cultivar,USA,Keltgen KS1030 hybrid X Pioneer 3535 hybrid
+PI 574390,29,29,1,0,pi_link,LH218,Maize.Group.PVP,Cultivar,USA,"LH50 X ((LH123Ht X LH51)S2) . LH50, LH123Ht, and LH51 are proprietary lines of Holden's.  The pedigree of LH50 is Mo17 X L30."
+PI 555659,29,33,2,4,pi_link,LH164,Maize.Group.PVP,Cultivar,USA,Pioneer 3901 hybrid
+PI 596355,29,31,2,2,pi_link,N216,Maize.Group.Ames.Panel.2010,Breeding material,USA,Self-pollination directly from NB(S)RF1(6).
+PI 564755,29,53,2,24,pi_link,LH183,Maize.Group.PVP,Cultivar,USA,(LH122 X LH51) X LH51
+PI 578029,29,78,3,25,pi_link,PHBB3,Maize.Group.PVP,Cultivar,USA,PHK29 X PHW52 specifically PHK29/PHW52)XA0K31K16K644K4K51
+PI 564753,29,78,3,25,pi_link,3IJI1,Maize.Group.PVP,Cultivar,USA,IBI8 X (A line selected from Pioneer 3603 hybrid) .  IBI8 is a Dekalb Plant Genetics proprietary line.
+PI 578030,29,53,2,24,pi_link,PHEG9,Maize.Group.PVP,Cultivar,USA,PHG86 X PHW52 specifically PHG86/PHW52)X12112XX
+PI 564543,29,77,3,24,pi_link,LH167,Maize.Group.PVP,Cultivar,USA,LH57 X LH82
+PI 564541,29,53,2,24,pi_link,LH200,Maize.Group.PVP,Cultivar,USA,"LH117 X LH132 .  LH117 and LH132 are both proprietary lines of Holden's derived from public inbreds H93 and B73. The pedigree of LH117 is B73 X LH1.
+"
+PI 578033,29,53,2,24,pi_link,PHHB4,Maize.Group.PVP,Cultivar,USA,PHW52 X PHV94 specifically PHW52/PHV94)XA2131K36K34
+PI 578035,29,53,2,24,pi_link,PHTD5,Maize.Group.PVP,Cultivar,USA,PHH93 X PHR25 specifically PHH93/PHR25)X742X
+PI 583356,29,77,3,24,pi_link,AM0776,Maize.Group.PVP,Cultivar,FRA,A632 X Pioneer 3901 hybrid .  Pioneer 3901 hybrid is known as EVA in Europe.
+PI 595616,29,42,3,12,pi_link,ZS01250,Maize.Group.PVP,Cultivar,USA,Contact developer.  PVP certificate unavailable because application was withdrawn.  Pedigree also not stated on utility patent.  SNP markers would suggest a relationship to LH160 which it was compared to on the utility patent.  
+PI 560317,29,34,2,5,pi_link,904,Maize.Group.PVP,Cultivar,USA,Pioneer 3737 hybrid
+PI 560316,29,53,3,23,pi_link,CS608,Maize.Group.PVP,Cultivar,USA,(Oh514 X B68 Ht) X CD1
+PI 601583,29,30,2,1,pi_link,NS501,Maize.Group.PVP,Cultivar,USA,A634 X K1
+PI 559954,29,35,3,5,pi_link,PHWG5,Maize.Group.PVP,Cultivar,USA,"PH814 X PHG16 specifically PH814/PHG16)X73151411K21.  The varieties C103, OS420, 38-11, OS426 contributed greatly to the genotype in the derivation of PH814.  Variety PHG16 was derived by pedigree selection from PH814 X PHB41. Variety PHB41 was derived by pedigree selection from a triple cross hybrid.  Far South Open Pollinated synthetic, OH43, Coker616, I205, IDT, Troyer Reid Open Pollinated, and Minn49 contributed to the genotype in the derivation of PHB41."
+PI 559953,29,84,5,25,pi_link,PHVA9,Maize.Group.PVP,Cultivar,USA,PHK29 X PHGP8 specifically PHK29/PHGP8)XA212131
+PI 559952,29,59,4,25,pi_link,PHV53,Maize.Group.PVP,Cultivar,USA,PHB89 X PHDT2 specifically PHB89/PHDT2)NX4122211334
+PI 559946,29,60,4,25,pi_link,PHR30,Maize.Group.PVP,Cultivar,USA,PHFM5 X PHG47 specifically PHFM5/PHG47)XA4K1232K3X
+PI 559945,29,35,3,5,pi_link,PHPR5,Maize.Group.PVP,Cultivar,USA,PHK76 X PHW52 specifically PHK76/PHW52)XA6333K252
+PI 601562,29,60,4,16,pi_link,78551S,Maize.Group.PVP,Cultivar,USA,78060A X LH38
+PI 559939,29,33,2,4,pi_link,PHGV6,Maize.Group.PVP,Cultivar,USA,"PH814 X PHG65 specifically PH814/PHG65)X321231.  The varieties C103, OS420, 38-11, OS426 contributed greatly to the genotype in the derivation of PH814."
+PI 559938,29,81,4,24,pi_link,PHGG7,Maize.Group.PVP,Cultivar,USA,PHT64 X PHG49 specifically PHT64/PHG49)XA014311221
+PI 559935,29,83,5,25,pi_link,PHBA6,Maize.Group.PVP,Cultivar,USA,PHZ51 X PHG47 specifically PHZ51/PHG47)XA111K311K41XX
+PI 555660,29,31,2,2,pi_link,LH214,Maize.Group.PVP,Cultivar,USA,LH123Ht X LH51
+PI 564540,29,52,2,23,pi_link,LH217,Maize.Group.PVP,Cultivar,USA,"(LH24 X LH123Ht) X LH51 .  All parents are Holden's proprietary lines.  The derivation of LH24 is (C123 X H23) X C123, all public inbred lines."
+PI 548838,29,58,3,25,pi_link,MBSJ,Maize.Group.PVP,Cultivar,USA,LH38 X 5P9-1 .  LH38 derives from (A619 X L120).  5P9-1 derives from (A295 Z 3J3).
+PI 537097,29,94,5,26,pi_link,LH195,Maize.Group.PVP,Cultivar,USA,LH117 X LH132 .  LH117 and LH132 are both proprietary lines of Holden's derived from public inbreds H93 and B73. The pedigree of LH117 is B73 X LH1.
+PI 546483,29,82,5,25,pi_link,6F629,Maize.Group.PVP,Cultivar,USA,88051B X 4608H
+PI 546482,29,59,4,25,pi_link,FBLA,Maize.Group.PVP,Cultivar,USA,1094-H X A656 .  1094-H derives from (B14''''Mt42).  A656 derives from (B14''Mt42).
+PI 543847,29,70,4,26,pi_link,PHV07,Maize.Group.PVP,Cultivar,USA,PHG41 X PHG21 specifically PHG41/PHG21)X8111X
+PI 539930,29,32,2,3,name_match_only,RS 710,Maize.Group.PVP,Cultivar,FRA,1202 X 1250 .  1202 is PAG 1202 which was improved PAG 330 for stalk quality using WF9 as donor.  1250 is A641 which is ND203 X B14.
+PI 539926,29,47,3,17,pi_link,LH192,Maize.Group.PVP,Cultivar,USA,"LHE137 X LHE136 . LHE137 and LHE136 are both proprietary lines of Holden's with the same pedigree, (B73 X H60) X B73."
+PI 693341,29,71,4,14,pi_link,Tx601,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Cultivar,USA,Yellow Tuxpan
+PI 538010,29,31,2,2,pi_link,LH206,Maize.Group.PVP,Cultivar,USA,"( CB59G X LH1 ) X B73 .  CB59G has the pedigree (((B14A X R168) X B59) X B59) and is a proprietary line of Cornelius Hybrid Seed Co. of Bellevue, Iowa.  B73 is a public line developed at Iowa State University."
+PI 538008,29,31,2,2,pi_link,LH163,Maize.Group.PVP,Cultivar,USA,Pioneer 3720 hybrid
+PI 537101,29,57,3,14,pi_link,LH211,Maize.Group.PVP,Cultivar,USA,LH58 X LH123Ht . LH58 and LH123Ht are proprietary lines of Holden's.  The pedigree of LH58 is (Mo17 X W64A) X Mo17.
+PI 535914,29,33,2,4,name_match_only,S 22,Maize.Group.Ames.Panel.2010,Breeding material,POL,
+PI 546485,29,35,3,5,pi_link,NL001,Maize.Group.PVP,Cultivar,USA,(1089Ht X A634Ht) XB73
+PI 522250,29,47,3,16,pi_link,ND262,Maize.Group.Ames.Panel.2010,Breeding material,USA,"Selected from NDSF(FS)C1, an improved version of NDSF."
+PI 690319,29,90,6,18,name_match_only,CML 103,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,"Population 44: P 44C4HC101-3-#1-1-B-### .  Population 44 is also named (AED) Tuxpeno and its compnents are AED and Tuxpe?o components.  AED (American Early Dent) was Boone County White from North-Carolina, before it was brought to Egypt in 1920.  The other component is an early cycle of short plant selections from Tuxpeno-1."
+PI 690320,29,111,7,25,name_match_only,CML 228,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,EV88SUWAN1-SR(BC5)-201-1-1-b-b
+PI 690322,29,60,4,16,name_match_only,CML 333,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,Population 590: P 590C3F373-1-1-7-B-#-5-2-B-#-B
+NSL 32723,29,46,3,15,pi_link,ND1,Maize.Group.Ames.Panel.2010,Breeding material,USA,Falconer
+PI 690327,29,95,6,25,pi_link,M37W,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,ZAF,21A^2.Jellicorse
+NSL 42878,29,47,3,16,pi_link,A171,Maize.Group.Ames.Panel.2010,Breeding material,USA,Complex cross.
+PI 690391,29,46,3,16,pi_link,NC292,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(B73 x NC250) B73 ^3
+PI 690392,29,47,3,17,pi_link,NC294,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(B73 x NC250) B73
+PI 546484,29,59,4,25,pi_link,6M502A,Maize.Group.PVP,Cultivar,USA,MAWU X 4913
+PI 539927,29,46,3,16,pi_link,LH193,Maize.Group.PVP,Cultivar,USA,"LHE137 X LHE136 . LHE137 and LHE136 are both proprietary lines of Holden's with the same pedigree, (B73 X H60) X B73."
+PI 700795,29,47,3,16,pi_link,ND230,Maize.Group.Ames.Panel.2010,Breeding material,USA,Haney's Minn. #13
+Ames 2336,29,32,2,3,pi_link,52220,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+PI 548839,29,78,5,25,pi_link,MBUB,Maize.Group.PVP,Cultivar,USA,LH38 X MANS .  LH38 derives from (A619 X L120).  MANS derives from (4A5.X AUM-H).
+PI 548808,29,46,3,16,pi_link,PHW30,Maize.Group.PVP,Cultivar,USA,PHG42 X PHV15 specifically PHG42/PHV15)PX712142X
+PI 548804,29,46,3,16,pi_link,PHR55,Maize.Group.PVP,Cultivar,USA,PH005 X PHG84 specifically PH005/PHG84)PXA2115412X
+PI 548802,29,46,3,16,pi_link,PHN66,Maize.Group.PVP,Cultivar,USA,PHG53 X PHG21 specifically PHG53/PHG21)XB1332K1X
+PI 550695,29,82,5,25,name_match_only,L 155,Maize.Group.PVP,Cultivar,FRA,Pioneer 3901 hybrid X A632 .  Pioneer 3901 hybrid is known as EVA in Europe.
+PI 554612,29,55,3,25,pi_link,LH209,Maize.Group.PVP,Cultivar,USA,LH74 X LH119
+PI 554616,29,97,6,25,pi_link,3IBZ2,Maize.Group.PVP,Cultivar,USA,IBC2 X ZZZ38 .  IBC2 is a proprietary line of DeKalb.  ZZZ38 derives from (Pioneer 3981 hybrid X Pioneer 3990 hybrid).
+PI 548799,29,45,3,15,pi_link,PHJ90,Maize.Group.PVP,Cultivar,USA,G50 X PHK42 specifically G50/PHK42)X353K133K67XX
+PI 548798,29,46,3,16,pi_link,PHJ89,Maize.Group.PVP,Cultivar,USA,PHT77 X PHG47 specifically PHT77/PHG47)X6K1134K113X
+PI 555462,29,59,3,25,pi_link,F118,Maize.Group.PVP,Cultivar,USA,B73 X T220
+Ames 20116,29,58,4,26,name_match_only,Mo23W,Maize.Group.Ames.Panel.2010,Breeding material,USA,(K10 x Ky49/Manmoth White Pearl)
+PI 694097,29,72,4,27,name_match_only,CI 90C,Maize.Group.Ames.Panel.2010,Breeding material,USA,
+PI 547090,29,60,4,25,pi_link,LH213,Maize.Group.PVP,Cultivar,USA,LH123Ht X LH51
+PI 547089,29,83,5,25,pi_link,LH212Ht,Maize.Group.PVP,Cultivar,USA,(LH24 X LH123Ht) X LH123Ht)
+PI 547088,29,47,3,17,pi_link,LH208,Maize.Group.PVP,Cultivar,USA,"LH74 X CB59G .  LH74 is a proprietary line of Holden's Foundation Seeds, Inc.  CB59G has the pedigree (((B14A X R168) X B59) X B59) and is a proprietary line of Cornelius Hybrid Seed Co. of Bellevue, Iowa."
+PI 554615,29,78,5,25,pi_link,MM402A,Maize.Group.PVP,Cultivar,USA,LH38 X MANS .  LH38 derives from (A619 X L120).  MANS derives from (4A5.X AUM-H).
+NSL 32726,28,57,4,15,pi_link,ND167,Maize.Group.Ames.Panel.2010,Breeding material,USA,Haney's Minn. #13
+NSL 32738,28,45,3,16,pi_link,ND283,Maize.Group.Ames.Panel.2010,Breeding material,USA,Haney's Minn. #13
+PI 694078,28,32,3,3,name_match_only,C.I. 40h,Maize.Group.Ames.Panel.2010,Breeding material,USA,Recovered strain of Os420
+PI 146374,28,33,3,3,name_match_only,Wf9,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Wilson Farm Reid
+PI 585228,28,63,3,25,pi_link,LH260,Maize.Group.PVP,Cultivar,USA,Pioneer 3295 hybrid X LH51
+PI 585226,28,29,2,1,pi_link,LH231,Maize.Group.PVP,Cultivar,USA,"(BS13 X B73) X LHE136 .  BS13 is a population developed at Iowa State University from Iowa Stiff Stalk Synthetic BSSS and released in 1979.  B73 is a public line developed from a later selection cycle of BSSS released in 1972.  LHE136 is a proprietary inbred line of Holden's Foundation Seeds, Inc. first sold in the spring of 1983 with the pedigree (B73 X H60) X B73."
+PI 585224,28,52,2,24,pi_link,LH188,Maize.Group.PVP,Cultivar,USA,(LH59 X LH51) X LH60
+PI 151090,28,32,3,3,name_match_only,CI 540,Maize.Iowa.Stiff.Stalk.Inbreds,Breeding material,USA,"Ill. Two-ear (from H.A. Wallace, Pioneer TEA54)"
+PI 585227,28,29,2,1,pi_link,LH252,Maize.Group.PVP,Cultivar,USA,Pioneer 3165 hybrid X LH51
+PI 700792,28,31,2,3,pi_link,ND255,Maize.Group.Ames.Panel.2010,Breeding material,USA,Haney's Minn. #13
+PI 706569,28,67,4,27,pi_link,K201,Maize.Group.Ames.Panel.2010,Breeding material,USA,Midland
+PI 591017,28,68,4,25,pi_link,KO679Y,Maize.Group.Ames.Panel.2010,Breeding material,ZAF,DO990Y X BO461Y
+NSL 30060,28,42,3,13,pi_link,W23,Maize.Group.Ames.Panel.2010,Breeding material,USA,See Hansey et.al. 2011
+NSL 30056,28,29,2,1,pi_link,W703,Maize.Group.Ames.Panel.2010,Breeding material,USA,See Hansey et.al. 2011
+NSL 22983,28,46,3,17,pi_link,C102,Maize.Group.Ames.Panel.2010,Breeding material,USA,See Hansey et.al. 2011
+Ames 23497,28,31,2,3,pi_link,A673,Maize.Group.Ames.Panel.2010,Breeding material,USA,UCD73
+PI 698954,28,33,3,3,pi_link,H14,Maize.Group.Ames.Panel.2010,Breeding material,USA,Lancaster Synthetic
+PI 693337,28,56,11,17,pi_link,Mt42,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Minnesota #13 (Owen's Strain)
+Ames 28928,28,32,2,4,name_match_only,Mo28W,Maize.Group.Ames.Panel.2010,Breeding material,USA,See Hansey et.al. 2011
+Ames 27051,28,45,3,16,pi_link,CO256,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+Ames 27046,28,69,4,25,pi_link,CO236,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+PI 583872,28,29,2,1,pi_link,LH175,Maize.Group.PVP,Cultivar,USA,LH82 X (LH82 X (LH82 X LH122))
+PI 693402,28,44,2,16,pi_link,A659,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Minnesota Synthetic 3
+PI 694098,28,56,3,26,name_match_only,C.I. 91b,Maize.Group.Ames.Panel.2010,Breeding material,USA,L97 x A71
+PI 583874,28,29,2,1,pi_link,LH250,Maize.Group.PVP,Cultivar,USA,LH150 X LH123Ht
+PI 555651,28,53,4,15,pi_link,83IBI3,Maize.Group.PVP,Cultivar,USA,IBC2 X IBI2
+PI 574391,28,52,2,24,pi_link,LH225,Maize.Group.PVP,Cultivar,USA,"CM105 X B37Ht .  CM105 has the pedigree V3 X B14(3) and is a public line developed by the Canadian Agricultural Research Station at Morden, Manitoba, Canada released in 1970.  B37Ht is a public line developed by Iowa State University and released in 1958."
+PI 601658,28,45,3,16,pi_link,1538,Maize.Group.PVP,Cultivar,USA,"Pioneer 3901 hybrid X AS3 .  AS3 is Minnesota Synthetic Population Number 3 and is derived from inbreds A73, A286, A295, A375, Oh5, Oh43, Oh51A, W22."
+PI 562377,28,76,3,24,pi_link,LH159,Maize.Group.PVP,Cultivar,USA,Pioneer 3160 hybrid
+PI 603939,28,45,3,16,pi_link,B42,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selected from Iowa Corn Borer Synthetic No. 1.
+PI 543840,28,58,4,15,pi_link,PHJ65,Maize.Group.PVP,Cultivar,USA,"PHG63 X PHG65 specifically PHG63/PHG65)X7XXX .  Variety PHG63 was derived by pedigree selection from a double cross hybrid. This double cross hybrid was derived by pedigree selection and limited backcrossing. The following varieties make up the background of the 4 components in the double cross hybrid: SD105, W153R, Turkish Flint, Argentine Pop, Ladyfinger Pop, Far South Open Pollinated, Tuson B."
+PI 547086,28,44,2,16,pi_link,LH128,Maize.Group.PVP,Cultivar,USA,LH51 X BS11LHC3S4
+PI 547087,28,44,3,15,pi_link,LH181,Maize.Group.PVP,Cultivar,USA,LH58 X LH122 . LH58 and LH122 are proprietary inbreds of Holden's.  The pedigree of LH58 is (Mo17 X W64A) X Mo17.
+PI 559937,28,71,3,22,pi_link,PHDD6,Maize.Group.PVP,Cultivar,USA,PHT64 X PHG36 specifically PHT64/PHG36)XA41145A2157X
+PI 547107,28,45,3,16,pi_link,Lp215D,Maize.Group.PVP,Cultivar,FRA,Mo17 X Lp216D. Lp216D is a proprietary inbred line of ORSEM and originated by selfing within a Yugoslavian hybrid.
+PI 555650,28,45,3,16,name_match_only,LIBC 4,Maize.Group.PVP,Cultivar,USA,((MBNS X (A selection from the hybrid 3901)) X (The same selection from Pioneer 3901 hybrid)
+PI 550470,28,75,4,26,pi_link,B54,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selected from Iowa Corn Borer Synthetic No. 1.
+PI 539925,28,45,3,16,pi_link,LH191,Maize.Group.PVP,Cultivar,USA,LH132 X Pioneer 3184 hybrid
+PI 559380,28,88,4,25,name_match_only,ICI 193,Maize.Group.PVP,Cultivar,USA,Pioneer 3732 hybrid X BAAJ .  BAAJ is a proprietary line.  Five plants of Pioneer 373 were pollinated with pollen from BAAJ.
+PI 576171,28,101,4,25,pi_link,LH185,Maize.Group.PVP,Cultivar,USA,LH59 X LH123Ht
+PI 576172,28,50,2,22,pi_link,LH186,Maize.Group.PVP,Cultivar,USA,LH59 X LH123Ht
+PI 552815,28,45,3,16,pi_link,LH215,Maize.Group.PVP,Cultivar,USA,(R177 X Mo17)C2 population.
+PI 303924,28,29,2,1,name_match_only,NO. 380,Maize.Group.Ames.Panel.2010,Breeding material,108,Developed from Dnepropetrovskaya an open-pollinated variety.
+PI 550530,28,43,3,14,pi_link,ND249,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selected from Rumanian Syn. D by self-pollination and selection for agronomic type for 7 generations.
+PI 550573,28,68,4,25,pi_link,ND260,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selected from NDSB after 8 generations of selfing and selection.
+Ames 27024,27,44,3,16,pi_link,CL17,Maize.Group.Ames.Panel.2010,Breeding material,CAN,European Flints / Howes Alberta Flint / Saskatchewan White Flint
+Ames 27048,27,44,3,16,pi_link,CO245,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+Ames 27044,27,45,3,17,pi_link,CO216,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+Ames 27043,27,68,4,26,pi_link,CO192,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+Ames 27031,27,44,3,16,pi_link,CM99,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+PI 698994,27,29,2,2,name_match_only,H122w,Maize.Group.Ames.Panel.2010,Breeding material,USA,(74-R336 x FR805)B73^2 [white endosperm backcross version of B73]
+PI 706561,27,53,3,25,name_match_only,IL 778d,Maize.Group.Ames.Panel.2010,Breeding material,USA,IL557a X IL677a
+PI 693875,27,54,3,26,pi_link,R101,Maize.Group.Ames.Panel.2010,Breeding material,USA,Stiff Stalk Synthetic
+PI 698972,27,28,2,1,pi_link,H52,Maize.Group.Ames.Panel.2010,Breeding material,USA,(38-11 x L97)38-11
+Ames 23484,27,66,4,25,pi_link,A651,Maize.Group.Ames.Panel.2010,Breeding material,USA,[(A73 X Q573) S1 sib A73]
+PI 698996,27,28,2,1,name_match_only,H124w,Maize.Group.Ames.Panel.2010,Breeding material,USA,H White Synthetic D
+Ames 23396,27,43,3,15,pi_link,A155,Maize.Group.Ames.Panel.2010,Breeding material,USA,A39 X A26 (Gerdes via Peterson Communication); Alternate A2 X A7 (Schaefer & Bernardo 2013)
+PI 698956,27,88,5,25,pi_link,H21,Maize.Group.Ames.Panel.2010,Breeding material,USA,Johnson County White
+PI 692198,27,28,2,1,name_match_only,Oh 3167B,Maize.Iowa.Stiff.Stalk.Inbreds,Breeding material,USA,Echelberger Clarage
+PI 583773,27,27,1,0,pi_link,OQ601,Maize.Group.PVP,Cultivar,USA,Pioneer 3732 hybrid
+PI 602590,27,30,2,3,pi_link,LH284,Maize.Group.PVP,Cultivar,USA,LH213 X LH212Ht
+NSL 30869,27,31,3,3,pi_link,R53,Maize.Group.Ames.Panel.2010,Breeding material,USA,(A375 x M13)CI187-2
+PI 584325,27,50,2,23,pi_link,L222,Maize.Group.PVP,Cultivar,FRA,(Pioneer 3707 hybrid) X (X7754) .  X7754 is a hybrid marketed as EMA in France starting in 1982.
+PI 692202,27,51,2,24,pi_link,A3G-3-3-1-313,Maize.Iowa.Stiff.Stalk.Inbreds,Breeding material,USA,
+PI 692203,27,27,1,0,pi_link,AH83,Maize.Iowa.Stiff.Stalk.Inbreds,Breeding material,USA,
+PI 576170,27,27,1,0,name_match_only,LH169Ht,Maize.Group.PVP,Cultivar,USA,LH82 X LH124
+NSL 42873,27,80,4,27,pi_link,A12,Maize.Group.Ames.Panel.2010,Breeding material,USA,Minnesota No. 13 (same as C11-28)
+PI 566940,27,27,1,0,pi_link,NQ402,Maize.Group.PVP,Cultivar,USA,Pioneer 3732 hybrid
+PI 566939,27,27,1,0,pi_link,CQ806,Maize.Group.PVP,Cultivar,USA,Lynks LX4348 hybrid
+NSL 30884,27,31,3,3,pi_link,R134,Maize.Group.Ames.Panel.2010,Breeding material,USA,(Mo2RF x K201) Mo2RF ^3
+NSL 30902,27,30,3,2,pi_link,R197,Maize.Group.Ames.Panel.2010,Breeding material,USA,R80 x K201
+Ames 30575,27,49,2,22,pi_link,W818G,Maize.Group.Ames.Panel.Post.2010,Breeding material,USA,See Hansey et.al. 2011
+PI 628348,26,27,2,1,pi_link,PH5HK,Maize.Group.PVP,Cultivar,USA,Pioneer PHVB2 hybrid X PH12F specifically PHVB2/PH12F)XA43K212X
+Ames 27047,26,67,4,26,pi_link,CO237,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+Ames 30559,26,48,2,22,pi_link,W802G,Maize.Group.Ames.Panel.Post.2010,Breeding material,USA,See Hansey et.al. 2011
+PI 602956,26,52,3,24,pi_link,ND287,Maize.Group.PVP,Cultivar,USA,"(ND252 X ND245) X NDSL(FS)C2 . NDSL(FS)C2 is a later cycle of selection from NDSL(FS)C1, PI 510673."
+Ames 27042,26,43,3,16,pi_link,CO158,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+Ames 27039,26,66,4,25,pi_link,CO117,Maize.Group.Ames.Panel.2010,Breeding material,CAN,See Hansey et.al. 2011
+PI 658504,26,27,2,1,pi_link,PHWRZ,Maize.Group.PVP,Cultivar,USA,PHB9E X PH7CR specifically PHB9E/PH7CR)XC01241X .  PHB9E was derived from PH1H4 X PHlCN.  PHIH4 was derived from  PHRE1 X PHHB4.  PH7CR was derived from PH1H4 X PH42B.
+Ames 27029,26,66,4,25,pi_link,CL27,Maize.Group.Ames.Panel.2010,Breeding material,CAN,CO106 / CO109 // New England Flint OA / ACA179
+PI 642029,26,27,2,1,pi_link,LH299,Maize.Group.PVP,Cultivar,USA,LH277 X (LH168 X LH176)
+Ames 24585,26,65,3,25,pi_link,CG10,Maize.Group.Ames.Panel.2010,Breeding material,CAN,European material.
+Ames 27057,26,42,3,15,pi_link,CSJ3,Maize.Group.Ames.Panel.2010,Breeding material,CAN,
+PI 587146,25,33,4,4,pi_link,Oh7,Maize.Group.Ames.Panel.2010,Breeding material,USA,CI.540 x Ill. L
+Ames 30553,25,44,2,19,pi_link,W601S,Maize.Group.Ames.Panel.Post.2010,Breeding material,USA,See Hansey et.al. 2011
+PI 660677,25,25,1,0,pi_link,T276,,Breeding material,USA,T173x(T250xMo17) - S9
+PI 587127,25,32,3,4,pi_link,H105W,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,33-16 / 3* A632
+PI 271641,25,25,1,0,pi_link,1278,,Cultivated material,IND,
+PI 584529,25,34,5,5,pi_link,B100,Maize.Group.Ames.Panel.2010,Breeding material,USA,(B85 x H99)H99-361.
+PI 271639,25,25,1,0,pi_link,1081,,Cultivated material,IND,
+PI 271638,25,25,1,0,pi_link,1080,,Cultivated material,IND,
+PI 690334,24,56,4,16,pi_link,Tx303,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,See Hansey et.al. 2011
+PI 706821,24,24,1,0,pi_link,FR218,,Cultivar,USA,Derived from B73
+PI 271640,24,24,1,0,pi_link,1127,,Cultivated material,IND,
+PI 271642,24,24,1,0,pi_link,1280,,Cultivated material,IND,
+PI 200182,24,25,2,1,name_match_only,NY 159 (Neveh Yaar),Maize.Group.Ames.Panel.2010,Breeding material,ISR,
+PI 587136,24,32,6,3,name_match_only,Ky228,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Pride of Saline
+NSL 65866,24,41,3,15,pi_link,B14,Maize.Group.Ames.Panel.2010,Breeding material,USA,Iowa Stiff Stalk Synthetic (BSSS)
+Ames 30573,24,43,2,19,pi_link,W816G,Maize.Group.Ames.Panel.Post.2010,Breeding material,USA,See Hansey et.al. 2011
+PI 594049,24,29,3,3,pi_link,B106,Maize.Group.Ames.Panel.2010,Cultivar,USA,BS26-2-552-1-1-1-1-1-1-1-1-1-1-1-1
+Ames 28937,24,40,3,14,name_match_only,Mo39,Maize.Group.Ames.Panel.2010,Breeding material,USA,See Hansey et.al. 2011
+Ames 21882,24,24,1,0,pi_link,1050,,Wild material,MEX,
+Ames 21875,24,24,1,0,pi_link,VIII.B. 11,,Wild material,MEX,
+Ames 21872,24,24,1,0,pi_link,VIII.B. 7,,Wild material,MEX,
+PI 584528,23,28,3,3,pi_link,B99,Maize.Group.Ames.Panel.2010,Breeding material,USA,Iowa Corn Borer Synthetic No. 1 [BSCB1(R)C10-7233].
+PI 564683,23,26,3,2,pi_link,B98,Maize.Group.Ames.Panel.2010,Breeding material,USA,Pioneer Two-ear Composite [BS11(FR)C5]-2803
+PI 693325,22,27,3,3,pi_link,Va17,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,WF9 x T8
+Ames 21874,22,22,1,0,pi_link,VIII.B. 9,,Wild material,MEX,
+PI 607382,22,25,3,2,pi_link,B111,Maize.Group.Ames.Panel.2010,Breeding material,USA,BSSS(R)C9-107-1-1-2-1-1-1-1-1-1-1-1
+PI 564852,22,26,3,2,pi_link,B101,Maize.Group.Ames.Panel.2010,Breeding material,USA,BSSSCO-53-1-1-1-1-1-1-1.
+PI 405707,21,25,3,3,name_match_only,HUA 94 INBRED,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+PI 391672,21,24,3,2,pi_link,YANG,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+PI 369446,21,22,2,1,name_match_only,U 123,Maize.Group.Ames.Panel.2010,Breeding material,POL,
+PI 607383,21,26,3,3,pi_link,B113,Maize.Group.Ames.Panel.2010,Breeding material,USA,BS11(FR)C9-3237-12-1-1-1-1-2-1-1
+PI 340819,21,23,2,2,pi_link,T9,Maize.Group.Ames.Panel.2010,Breeding material,ROU,Selection IG 6.  IG 6 is from a local population originally from Germany.
+PI 391682,21,23,2,2,pi_link,YE-CHI-HUNG,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+PI 693372,21,25,3,3,pi_link,N6,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Hays Golden
+PI 539922,20,22,2,2,pi_link,LH190,Maize.Group.PVP,Cultivar,USA,((B73Ht X B68Ht)S3) X B73Ht
+PI 340827,20,22,2,2,pi_link,T141,Maize.Group.Ames.Panel.2010,Breeding material,ROU,Selection from Romanian local population – Copsa Mica 1850-3-2-1-1
+PI 340829,20,22,2,2,pi_link,T146,Maize.Group.Ames.Panel.2010,Breeding material,ROU,Selection from Romanian local population – Portocaliu de Targul Frumos.
+PI 357093,20,20,1,0,pi_link,4,,Cultivated material,ETH,
+PI 357094,20,20,1,0,pi_link,5,,Cultivated material,ETH,
+PI 369438,20,22,2,2,name_match_only,K 10,Maize.Group.Ames.Panel.2010,Breeding material,POL,
+PI 693398,20,25,4,3,pi_link,M14,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,BR10 x R8.  BR10 was derived from Funk Yellow Dent.  R8 was derived from Texas Surecropper.
+Ames 22016,20,24,3,3,pi_link,C15,Maize.Group.Ames.Panel.2010,Cultivar,USA,Black Mexican X Spanish Gold
+PI 427109,20,22,2,2,name_match_only,Eng-li Chih,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+PI 700950,20,39,3,17,pi_link,GE129,,Breeding material,USA,
+PI 706570,20,22,3,1,pi_link,K155,Maize.Group.Ames.Panel.2010,Breeding material,USA,Yellow selection from Pride of Saline
+PI 531083,20,26,4,4,name_match_only,Pa891,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selected from PA91/T226 * 2/PA91 after five cycles of selfing and selection in ear to row manner
+PI 539920,20,24,2,4,pi_link,LH160,Maize.Group.PVP,Cultivar,USA,ND246 X Early Mo17 Composite
+PI 601808,20,23,2,3,pi_link,2FACC,Maize.Group.PVP,Cultivar,USA,4676A X PB80 .  The origin of 4676A is (1067.B-Line Comp.).  The origin of PB80 is (B73''1067-1)
+Ames 19011,20,23,3,2,name_match_only,Va38,Maize.Group.Ames.Panel.2010,Breeding material,USA,VaCBS(S)C2
+PI 595552,20,35,2,15,name_match_only,CML 20,Maize.Group.Ames.Panel.2010,Breeding material,MEX,Population 24: P 24 C5FS34-2-3-B-### .  Population 24 is also named Antigua-Veracruz 181 and its components are Tuxpeno race collections Veracruz 181 and Antigua Group-2 (Antigua collections 1D to 8D).
+PI 601564,20,21,2,1,pi_link,HB8229,Maize.Group.PVP,Cultivar,USA,A634Ht X 8200
+PI 593010,20,23,2,3,name_match_only,Hi28,Maize.Group.Ames.Panel.2010,Breeding material,USA,"Sister line (MV conversion) of CM105 (India), (=Peru 330##329C#)."
+PI 595554,20,36,3,15,name_match_only,CML 27,Maize.Group.Ames.Panel.2010,Breeding material,MEX,"Population 27: P 27 C5FS1-1-3-B-### .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25)."
+PI 601724,20,23,2,3,pi_link,E8501,Maize.Group.PVP,Cultivar,USA,"387 x FRMo17 .  Inbred 387 is a Northrup King proprietary line, and FRM017 is an Illinois Foundation 5eed's reselection of M017. "
+PI 601570,20,35,3,14,pi_link,PHP02,Maize.Group.PVP,Cultivar,USA,PHG44 X PHG29 specifically PHG44/PHG29)X1211X
+PI 601565,20,24,2,4,pi_link,IBB14,Maize.Group.PVP,Cultivar,USA,Pioneer 3710 hybrid X Pioneer 3732 hybrid
+Ames 2328,19,22,2,3,name_match_only,North 7,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+Ames 2339,19,21,2,2,pi_link,Huobai,Maize.Group.Ames.Panel.2010,Breeding material,CHN,
+PI 561522,19,24,4,3,pi_link,AR228,Maize.Group.Ames.Panel.2010,Breeding material,USA,Composite made from two S2 lines from Ark. SWEB Syn. Self-pollinated for 20+ generations.
+PI 690361,19,36,3,16,pi_link,NC13,Maize.Group.Ames.Panel.2010,Breeding material,USA,Indian Chief
+PI 221773,19,20,2,1,name_match_only,A415-1-3 INBRED,Maize.Group.Ames.Panel.2010,Breeding material,ZAF,
+PI 543846,19,22,2,3,pi_link,PHP76,Maize.Group.PVP,Cultivar,USA,G50 X PHEJ8 specifically G50/PHEJ8)X812X
+PI 690325,19,73,6,16,pi_link,Ki11,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,THA,Suwan 1(S)C4-S8-18-7 (2025)
+NSL 65872,19,37,3,16,name_match_only,L 289,Maize.Group.Ames.Panel.2010,Breeding material,USA,L 289-4-3-5-2-4-1-1-3-3. Lancaster Surecrop.
+Ames 24727,19,24,3,4,pi_link,MS106,Maize.Group.Ames.Panel.2010,Breeding material,USA,W10 X MS9
+PI 593008,19,21,2,2,name_match_only,Hi26,Maize.Group.Ames.Panel.2010,Breeding material,USA,Sister line (MV conversion) of CI21E (=K577CxHy)BC2.
+NSL 65864,19,37,3,17,pi_link,B8,Maize.Group.Ames.Panel.2010,Breeding material,USA,See Hansey et.al. 2011
+Ames 24733,19,21,2,2,pi_link,MS142,Maize.Group.Ames.Panel.2010,Breeding material,USA,Mich 250 
+Ames 24747,19,22,3,2,pi_link,MS222,Maize.Group.Ames.Panel.2010,Breeding material,USA,Broadbase Selection for European corn borer 
+Ames 24748,19,22,3,2,pi_link,MS223,Maize.Group.Ames.Panel.2010,Breeding material,USA,Broadbase Selection for European corn borer 
+PI 550456,19,35,2,16,pi_link,B69,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selected from Iowa Stiff Stalk Synthetic using the doubled monoploid method.
+PI 539924,19,23,2,4,pi_link,LH202,Maize.Group.PVP,Cultivar,USA,(( A662 X B73 S1 ) X B73 ) X B73
+PI 595560,19,48,4,14,name_match_only,CML 40,Maize.Group.Ames.Panel.2010,Breeding material,MEX,"Population 36: P 36 C5FS144-2-2-B-### .  Population 36 is also named Cogollero and it is a Caribbean composite involving 165 accessions from all the Caribbean islands. About 50 families from the Insect Disease Resistance Nursery (IDRN) population, 20 families from Pool 22, and 26 families from Pool 26."
+PI 517971,19,51,4,17,name_match_only,Pa468,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selection from an Indian corn population
+PI 543849,19,22,2,3,pi_link,PHW51,Maize.Group.PVP,Cultivar,USA,PHDF2 X PHG41 specifically PHDF2/PHG41)RXB333X
+PI 538011,19,22,2,3,pi_link,LH220Ht,Maize.Group.PVP,Cultivar,USA,LH74 X LH145Ht
+PI 538009,19,23,2,4,pi_link,LH196,Maize.Group.PVP,Cultivar,USA,LH74 X LH119
+PI 548805,19,22,2,3,pi_link,PHR58,Maize.Group.PVP,Cultivar,USA,"PH383 X PHG16 specifically PH383/PHG16)X84145321X.  Variety PHG16 was derived by pedigree selection from PH814 X PHB41. Variety PHB41 was derived by pedigree selection from a triple cross hybrid.  Far South Open Pollinated synthetic, OH43, Coker616, I205, IDT, Troyer Reid Open Pollinated, and Minn49 contributed to the genotype in the derivation of PHB41."
+PI 607522,19,23,3,3,pi_link,A662,Maize.Group.Ames.Panel.2010,Breeding material,USA,"Developed from AS-A, a population derived from 13 Corn Belt lines (A90, A498, A508, A509, A513, CMD5, MS1334, ND203, W33, W59M, W65, W79A, W103)."
+PI 595569,19,50,4,16,name_match_only,CML 300,Maize.Group.Ames.Panel.2010,Breeding material,MEX,Syn.Amarillo TSR-76-1-2-3-1-BB-####
+PI 595558,19,34,2,15,name_match_only,CML 32,Maize.Group.Ames.Panel.2010,Breeding material,MEX,"Population 28: P 28 TSR (S2 bulk)-11-2-4-B-1-## .  Population 28 is also named Amarillo Dentado and its components are Tuxpe?o, Caribbean, Brazilian germplasm, ETO amarillo, and 9 families from the tropical late yellow dent pool (Pool 26)."
+PI 560081,19,23,3,3,name_match_only,Pa778,Maize.Group.Ames.Panel.2010,Breeding material,USA,[(C103/Hooker's Ht B Source)(C1030C)] C103 Ht Ht.
+PI 595556,19,21,2,2,name_match_only,CML 29,Maize.Group.Ames.Panel.2010,Breeding material,MEX,"Population 27: P 27 C5FS71-3-1-B-f-B .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25)."
+PI 686067,18,22,3,3,name_match_only,SG 30A,Maize.Group.Ames.Panel.2010,Breeding material,USA,
+Ames 23423,18,20,2,2,pi_link,A334,Maize.Group.Ames.Panel.2010,Breeding material,USA,Golden King (McArthur)
+PI 544065,18,20,2,2,pi_link,BCC03,Maize.Group.PVP,Cultivar,USA,3224 X LH51 .  Parent 3224 is a Northrup King Co. proprietary inbred derived from the inbred line Mo17. Parent LH51 is a Holden's Foundation Seed Co. inbred which is also derived from Mo17.
+PI 548801,18,21,2,3,pi_link,PHM81,Maize.Group.PVP,Cultivar,USA,PHG72 X PHG68 specifically PHG72/PHG68)XB72133537X
+NSL 34374,18,22,3,3,pi_link,SD15,Maize.Group.Ames.Panel.2010,Breeding material,USA,[(Oh56A X Silver King)Oh56A]
+PI 595557,18,29,2,11,name_match_only,CML 31,Maize.Group.Ames.Panel.2010,Breeding material,MEX,"Population 27: P 27 C5FS117-1-4-B-#### .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25)."
+PI 595567,18,33,3,14,name_match_only,CML 298,Maize.Group.Ames.Panel.2010,Breeding material,MEX,Syn.Amarillo TSR-7-4-2-2-1-BB-##
+Ames 23393,18,20,2,2,pi_link,A96,Maize.Group.Ames.Panel.2010,Breeding material,USA,64 X H (64 is the same as C64; C64 was renamed A48)
+PI 595564,18,33,2,15,name_match_only,CML 285,Maize.Group.Ames.Panel.2010,Breeding material,MEX,Population 24: P 24C5FS34-2-3-B-f-2#-BBB-## .  Population 24 is also named Antigua-Veracruz 181 and its components are Tuxpeno race collections Veracruz 181 and Antigua Group-2 (Antigua collections 1D to 8D).
+PI 151531,18,34,3,15,name_match_only,Os426,,Breeding material,USA,
+Ames 24706,18,18,1,0,pi_link,MS12,Maize.Group.Ames.Panel.2010,Breeding material,USA,[(Golden Glow X M. Amargo) S5 X Duncan] S2 X Golden Glow
+PI 517968,18,24,5,3,name_match_only,Pa392,Maize.Group.Ames.Panel.2010,Breeding material,USA,Selection from PA Virus resistant early synthetic.
+Ames 24589,18,35,2,17,pi_link,I159,Maize.Group.Ames.Panel.2010,Breeding material,USA,Iodent
+Ames 23425,18,21,2,3,pi_link,A344,Maize.Group.Ames.Panel.2010,Breeding material,USA,U.S. 153 (Iowa)
+Ames 22757,18,23,4,3,name_match_only,Pa405,Maize.Group.Ames.Panel.2010,Cultivar,USA,NY3 X Pa54
+PI 595555,17,17,1,0,name_match_only,CML 28,Maize.Group.Ames.Panel.2010,Breeding material,MEX,"Population 27: P 27 C5FS35-8-3-B-####-B .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25)."
+PI 595562,17,18,2,1,name_match_only,CML 282,Maize.Group.Ames.Panel.2010,Breeding material,MEX,"Pool 22: (Pool 22 x Pool 22)-2-2-3-1-BB-## .  Pool 22 is also named Tropical intermediate yellow dent (TIYD) and its components are materials from Mexico, Cuba, the Dominican Republic, Antigua, Brazil, Peru, India, Colombia, Puerto Rico Argentina, and Central America."
+Ames 23446,17,20,2,3,pi_link,A508,Maize.Group.Ames.Panel.2010,Breeding material,USA,A357 X Haney's Minnesota No. 13
+Ames 27117,17,18,2,1,name_match_only,Ia5125B,Maize.Group.Ames.Panel.2010,Breeding material,USA,
+Ames 23389,17,20,2,3,pi_link,A15,Maize.Group.Ames.Panel.2010,Breeding material,USA,Minnesota No. 13 (Kalmoes #13)
+PI 595571,17,17,1,0,name_match_only,CML 305,Maize.Group.Ames.Panel.2010,Breeding material,MEX,Syn.Amarillo TSR-23-2-2-1-3-BB-####
+PI 548830,17,19,2,2,pi_link,29MIBZ2,Maize.Group.PVP,Cultivar,USA,(B87 X (A line selected from Pioneer 3901 hybrid)) X (A line selected from Pioneer 3901 hybrid)
+PI 520731,17,18,2,1,pi_link,647,,Landrace,BFA,
+PI 520704,17,31,2,14,pi_link,488,,Cultivated material,BFA,
+PI 520624,17,18,2,1,pi_link,8,,Cultivated material,BFA,
+PI 520623,17,18,2,1,pi_link,3,,Landrace,BFA,
+PI 690581,17,46,3,15,name_match_only,CML 61,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,MEX,"Population 21: P 21C5F57-1-1-3-B1#B1-B1#B1-B1 .  Population 21 is also named Tuxpeno-1 and its components are Tuxpeno race collections Veracruz 48, Veracruz 143, Veracruz 174, Michoacan 137, Michoacan 166, V-520C, Colima Group 1-Mix.1, and 16 families from the tropical late white dent pool (Pool 24)."
+Ames 19997,17,17,1,0,pi_link,1254,,Landrace,YEM,
+PI 462374,17,17,1,0,pi_link,16,,Landrace,SDN,
+PI 558531,16,26,5,4,name_match_only,Mo16W,Maize.Group.Ames.Panel.2010,Breeding material,USA,Developed from the open-pollinated variety Pipe Corn.
+PI 587149,16,24,4,3,pi_link,Va26,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,Oh43 x K155
+PI 690605,16,31,2,15,name_match_only,CML 304,Maize.Group.Ames.Panel.2010,Breeding material,MEX,SINTAMTSR-76-1-2-3-2-B
+PI 700948,16,31,3,14,pi_link,GE54,,Breeding material,USA,
+PI 558518,16,24,5,4,name_match_only,Mo15W,Maize.Group.Ames.Panel.2010,Breeding material,USA,Developed from the open-pollinated variety Pipe Corn.
+PI 550483,16,23,4,3,pi_link,B76,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,(CI31A/B37)F2//B37
+PI 550440,16,21,3,3,pi_link,B64,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Breeding material,USA,41.2504B/3*B14
+PI 520726,15,29,2,14,pi_link,618,,Cultivated material,BFA,
+Ames 34383,15,30,2,15,name_match_only,CML 422,,Cultivar,MEX,G17TSR-HS5-2-4-7-1-1-1-B
+Ames 34386,15,15,1,0,name_match_only,CML 451,,Cultivar,MEX,((NPH-28-1/G25)/NPH-28-1)-1-2-1-1-3-1-B
+PI 690602,15,15,1,0,name_match_only,CML 289,Maize.Group.Ames.Panel.2010,Breeding material,MEX,P24STE-C1-FS23-5-2-1-2-3-B
+PI 690606,15,29,2,14,name_match_only,CML 307,Maize.Group.Ames.Panel.Post.2010,Breeding material,MEX,SINTAMTSR-61-3-2-8-2-B
+PI 690611,15,16,2,1,name_match_only,CML 325,Maize.Group.Ames.Panel.2010,Breeding material,MEX,P45-C6-F28-1-2-B
+PI 690627,15,26,3,10,name_match_only,CML 395,Maize.Group.Ames.Panel.2010,Breeding material,MEX,90323(B)-1-B-1-B*4
+Ames 34388,15,15,1,0,name_match_only,CML 486,,Cultivar,MEX,P45-C8-76-1-2-1-2-B
+Ames 34387,15,15,1,0,name_match_only,CML 471,,Cultivar,MEX,P147-F2-110-1-2-B-2
+PI 690612,15,26,2,11,name_match_only,CML 327,Maize.Group.Ames.Panel.2010,Breeding material,MEX,P45-C6-F83-3-1-B

@@ -1,0 +1,72 @@
+accession,PLANT_NAME,n_traits,total_envs,study,field,raw,IMPROVEMENT_LEVEL,collection
+Ames 30554,W602S,27.0,51,PRJEB40124,cultivar,W602S,Breeding material,Maize.Group.Ames.Panel.Post.2010
+PI 594046,B103,24.0,29,PRJEB40124,cultivar,B103,Cultivar,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 690389,NC290,30.0,34,PRJEB40124,cultivar,NC290,Breeding material,Maize.Group.Ames.Panel.2010
+Ames 23419,A310,18.0,21,PRJEB40124,cultivar,A310,Breeding material,Maize.Group.Ames.Panel.2010
+PI 700794,ND-B8,18.0,22,PRJEB40124,cultivar,NDB8,Breeding material,Maize.Group.Ames.Panel.2010
+PI 509542,B89,36.0,56,PRJEB40124,cultivar,B89,Breeding material,Maize.Group.Ames.Panel.2010
+PI 601007,PHB09,36.0,81,PRJEB40124,cultivar,PHB09,Cultivar,Maize.Group.PVP
+PI 601037,PHG80,35.0,52,PRJEB40124,cultivar,PHG80,Cultivar,Maize.Group.PVP
+Ames 22757,Pa405,18.0,23,PRJEB40124,cultivar,Pa405,Cultivar,Maize.Group.Ames.Panel.2010
+PI 151531,Os426,18.0,34,PRJEB40124,cultivar,Os426,Breeding material,
+PI 601500,PHV63,31.0,34,PRJEB40124,cultivar,PHV63,Cultivar,Maize.Group.PVP
+Ames 23424,A340,18.0,22,PRJEB40124,cultivar,A340,Breeding material,Maize.Group.Ames.Panel.2010
+Ames 30918,Pa36,26.0,26,PRJEB40124,cultivar,Pa36,Breeding material,Maize.Group.Ames.Panel.Post.2010
+PI 587141,A654,16.0,21,PRJEB40124,cultivar,A654,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 693358,CO125,28.0,83,PRJEB40124,cultivar,CO125,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 558518,Mo15W,16.0,24,PRJEB40124,cultivar,Mo15W,Breeding material,Maize.Group.Ames.Panel.2010
+PI 550566,N192,17.0,33,PRJEB40124,cultivar,N192,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+Ames 24590,I198,19.0,22,PRJEB40124,cultivar,I198,Breeding material,Maize.Group.Ames.Panel.2010
+PI 601468,PHK29,31.0,57,PRJEB40124,cultivar,PHK29,Cultivar,Maize.Group.PVP
+PI 146374,Wf9,28.0,33,PRJEB40124,cultivar,Wf9,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+NSL 30074,W182E,29.0,31,PRJEB40124,cultivar,W182E,Breeding material,Maize.Group.Ames.Panel.2010
+Ames 23397,A158,27.0,31,PRJEB40124,cultivar,A158,Breeding material,Maize.Group.Ames.Panel.2010
+PI 597925,B107,19.0,23,PRJEB40124,cultivar,B107,Breeding material,Maize.Group.Ames.Panel.2010
+PI 597927,B109,32.0,88,PRJEB40124,cultivar,B109,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 597926,B108,30.0,47,PRJEB40124,cultivar,B108,Breeding material,Maize.Group.Ames.Panel.2010
+PI 566682,W.S. 92-18,25.0,25,PRJEB41335,sample_alias,WS92-18,Wild material,
+Ames 34380,CML 344,15.0,15,PRJEB41335,sample_alias,CML344,Cultivar,
+PI 595565,CML 287,29.0,95,PRJEB41335,sample_alias,CML287,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 690600,CML 281,16.0,40,PRJEB41335,sample_alias,CML281,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 690619,CML 343,15.0,15,PRJEB41335,sample_alias,CML343,Breeding material,Maize.Group.Ames.Panel.2010
+PI 566691,W.S. 92-16,25.0,25,PRJEB41335,sample_alias,WS92-16,Wild material,
+Ames 34386,CML 451,15.0,15,PRJEB41335,sample_alias,CML451,Cultivar,
+PI 595555,CML 28,17.0,17,PRJEB41335,sample_alias,CML28,Breeding material,Maize.Group.Ames.Panel.2010
+PI 690588,CML 154,28.0,59,PRJEB41335,sample_alias,CML154,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 690628,CML 405,15.0,29,PRJEB41335,sample_alias,CML405,Breeding material,Maize.Group.Ames.Panel.Post.2010
+PI 566692,W.S. 92-15,25.0,25,PRJEB41335,sample_alias,WS92-15,Wild material,
+PI 690598,CML 261,16.0,54,PRJEB41335,sample_alias,CML261,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 690610,CML 323,30.0,61,PRJEB41335,sample_alias,CML323,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 566689,W.S. 92-13,25.0,25,PRJEB41335,sample_alias,WS92-13,Wild material,
+PI 566687,W.S. 92-11,25.0,25,PRJEB41335,sample_alias,WS92-11,Wild material,
+PI 690621,CML 371,15.0,27,PRJEB41335,sample_alias,CML371,Breeding material,Maize.Group.Ames.Panel.2010
+PI 595571,CML 305,17.0,17,PRJEB41335,sample_alias,CML305,Breeding material,Maize.Group.Ames.Panel.2010
+PI 595532,CML 22,20.0,22,PRJEB41335,sample_alias,CML22,Breeding material,Maize.Group.Ames.Panel.2010
+PI 690609,CML 321,28.0,73,PRJEB41335,sample_alias,CML321,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 566688,W.S. 92-12,25.0,25,PRJEB41335,sample_alias,WS92-12,Wild material,
+PI 566686,W.S. 92-10,25.0,25,PRJEB41335,sample_alias,WS92-10,Wild material,
+PI 566680,W.S.T. 92-5,25.0,25,PRJEB41335,sample_alias,WST92-5,Wild material,
+PI 595546,CML 268,20.0,48,PRJEB41335,sample_alias,CML268,Breeding material,Maize.Group.Ames.Panel.2010
+PI 566677,W.S.T. 92-3,25.0,25,PRJEB41335,sample_alias,WST92-3,Wild material,
+PI 595569,CML 300,19.0,50,PRJEB41335,sample_alias,CML300,Breeding material,Maize.Group.Ames.Panel.2010
+PI 566685,W.S. 92-9,25.0,25,PRJEB41335,sample_alias,WS92-9,Wild material,
+PI 690585,CML 92,28.0,59,PRJEB41335,sample_alias,CML92,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 566674,W.S.T. 92-1,25.0,25,PRJEB41335,sample_alias,WST92-1,Wild material,
+PI 595535,CML 43,20.0,22,PRJEB41335,sample_alias,CML43,Breeding material,Maize.Group.Ames.Panel.2010
+PI 595566,CML 297,19.0,19,PRJEB41335,sample_alias,CML297,Breeding material,Maize.Group.Ames.Panel.2010
+PI 595537,CML 48,20.0,34,PRJEB41335,sample_alias,CML48,Breeding material,Maize.Group.Ames.Panel.2010
+PI 690606,CML 307,15.0,29,PRJEB41335,sample_alias,CML307,Breeding material,Maize.Group.Ames.Panel.Post.2010
+PI 595538,CML 49,20.0,35,PRJEB41335,sample_alias,CML49,Breeding material,Maize.Group.Ames.Panel.2010
+PI 595567,CML 298,18.0,33,PRJEB41335,sample_alias,CML298,Breeding material,Maize.Group.Ames.Panel.2010
+PI 690574,CML 5,27.0,77,PRJEB41335,sample_alias,CML5,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 690576,CML 11,17.0,32,PRJEB41335,sample_alias,CML11,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+Ames 34389,CML 494,15.0,15,PRJEB41335,sample_alias,CML494,Cultivar,
+PI 595530,CML 9,31.0,74,PRJEB41335,sample_alias,CML9,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 146368,CI 7,30.0,76,PRJEB41335,sample_alias,CI7,Breeding material,
+Ames 34385,CML 449,15.0,15,PRJEB41335,sample_alias,CML449,Cultivar,
+PI 595542,CML 254,30.0,77,PRJEB41335,sample_alias,CML254,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 690578,CML 16,15.0,44,PRJEB41335,sample_alias,CML16,Breeding material,Maize.Group.Ames.Panel.2010
+PI 595531,CML 17,20.0,36,PRJEB41335,sample_alias,CML17,Breeding material,Maize.Group.Ames.Panel.2010
+Ames 34387,CML 471,15.0,15,PRJEB41335,sample_alias,CML471,Cultivar,
+PI 595534,CML 38,31.0,84,PRJEB41335,sample_alias,CML38,Breeding material,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents
+PI 595551,CML 19,18.0,18,PRJEB41335,sample_alias,CML19,Breeding material,Maize.Group.Ames.Panel.2010

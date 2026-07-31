@@ -1,0 +1,131 @@
+trait,n_acc_snptools,pct_of_panel,max_envs,mean_envs_when_measured,n_acc_all_grin
+Cob Color,430,98.9,70,3.19,11903
+Kernel Type,426,97.9,69,2.56,12649
+Kernel Color,425,97.7,69,2.49,12532
+Ear Length,423,97.2,67,2.42,10248
+Kernel row Number,423,97.2,67,2.42,10315
+1000 Kernel Weight,412,94.7,25,1.84,13631
+Upper Kernel Shape,406,93.3,69,2.54,9712
+Pericarp Color,406,93.3,69,2.61,9763
+Aleurone Color,406,93.3,69,2.54,9759
+Colored Silk Scar,406,93.3,69,2.54,8998
+Endosperm Color,406,93.3,69,2.62,9591
+Ear Shape,406,93.3,69,2.51,8646
+Glume Development,406,93.3,69,2.53,8614
+Kernel Row Arrangement,405,93.1,69,2.5,8630
+Ear Diameter,388,89.2,65,2.43,8037
+Stewarts Wilt,365,83.9,11,1.94,4559
+Plant Height,329,75.6,40,2.17,6806
+Ear Number,328,75.4,39,2.23,5792
+Node Number,327,75.2,39,2.17,5750
+Ear Height,320,73.6,40,2.2,5727
+Tiller Number,316,72.6,37,2.15,5340
+Top Tassel Branch Height,308,70.8,39,2.22,3642
+Bottom Tassel Branch Height,308,70.8,39,2.22,3642
+Node Number Above the Ear,308,70.8,39,2.22,3683
+Peduncle Height,308,70.8,39,2.22,3643
+Tassel Type,308,70.8,38,2.21,3642
+GDU SILKING F LAT40-49,276,63.4,7,2.18,3008
+Head Smut,210,48.3,1,1.0,379
+GROWING DEGREE UNITS TO SILK F,187,43.0,1,1.0,971
+European Corn Borer Gen1,142,32.6,2,1.03,13027
+Days to Silk 40-49 latitude,131,30.1,12,1.18,3839
+Oil Percentage,131,30.1,2,1.02,9610
+Northern Leaf Blight,129,29.7,5,1.05,2868
+Goss's Wilt,109,25.1,1,1.0,402
+GDU ANTHESIS F LAT40-49,70,16.1,4,1.11,670
+Northern Leaf Blight Race O,64,14.7,2,1.03,572
+DTS Relative 40-49 Latitude,40,9.2,3,1.38,220
+Husk Length,36,8.3,34,5.19,1683
+GDU SILKING C LAT40-49,32,7.4,2,1.06,749
+Eyespot,32,7.4,1,1.0,347
+AES Maturity,28,6.4,1,1.0,401
+Plant Vigor,25,5.7,1,1.0,2541
+European Corn Borer Gen2,24,5.5,1,1.0,3073
+Root Lodging,24,5.5,1,1.0,2476
+Gray Leaf Spot,23,5.3,3,2.39,1129
+Shank Length,23,5.3,34,7.57,103
+Black Cutworm,18,4.1,1,1.0,2363
+Diplodia Stalk Rot,18,4.1,1,1.0,2303
+Stalk Lodging,17,3.9,1,1.0,1204
+Response to Sulfonylureas,17,3.9,1,1.0,139
+Antracnose Stalk Rot,17,3.9,1,1.0,329
+Common Smut,16,3.7,1,1.0,2176
+Common Rust,16,3.7,1,1.0,2065
+Maize Dwarf Mosaic Virus,15,3.4,2,1.13,179
+Kernel Volume,13,3.0,1,1.0,1033
+Common Rust Race RP1-D,12,2.8,1,1.0,1004
+Rootworm Root Damage,12,2.8,1,1.0,2393
+Rootworm Caused Root Size,12,2.8,1,1.0,1864
+Rootworm Secondary Root Growth,11,2.5,1,1.0,1696
+Rootworm Plant Lodging,8,1.8,1,1.0,1214
+Average Crown Root Diameter,4,0.9,1,1.0,252
+Longest Nodal Root Length,4,0.9,1,1.0,253
+Aerenchyma Area,4,0.9,1,1.0,256
+Number of Cortical Cell Files,4,0.9,1,1.0,256
+Number of Lateral Root Branch Points,4,0.9,1,1.0,252
+Number of Root Tips,4,0.9,1,1.0,252
+Number of Seminal Roots,4,0.9,1,1.0,247
+Percent of Cortex as Aerenchyma,4,0.9,1,1.0,256
+Percent of Cortex as Cells,4,0.9,1,1.0,256
+Root Cross-Section Area,4,0.9,1,1.0,256
+Number of Cortical Cells,4,0.9,1,1.0,256
+Xylem Vessel Area,4,0.9,1,1.0,256
+Cortical Cell Area,4,0.9,1,1.0,256
+Root System Dry Weight,4,0.9,1,1.0,253
+Crown Root System Diameter,4,0.9,1,1.0,253
+Shoot Dry Weight,4,0.9,1,1.0,253
+Steele:Cortex Ratio,4,0.9,1,1.0,256
+Steele:Cross-Section Ratio,4,0.9,1,1.0,256
+Stem Diameter,4,0.9,1,1.0,253
+Total Cortical Area,4,0.9,1,1.0,256
+Total Steele Area,4,0.9,1,1.0,256
+Number of Nodal Roots,4,0.9,1,1.0,250
+Spider Mite,3,0.7,1,1.0,460
+Root:Shoot Ratio,3,0.7,1,1.0,251
+Days to Silk 20-29 latitude,2,0.5,1,1.0,14
+Starch Percentage,2,0.5,1,1.0,59
+Protein Percentage,2,0.5,1,1.0,59
+ECB2 Shank Damage,1,0.2,1,1.0,684
+ECB2 Stalk Damage,1,0.2,1,1.0,732
+Popping Expansion,1,0.2,1,1.0,126
+P-PHI024-CCT(SSR),1,0.2,1,1.0,54
+Days to Shed 40-49 latitude,1,0.2,1,1.0,376
+Diplodia Ear Rot,0,0.0,0,,3
+LOCUS ALCOHOL DEHYDROGENASE1,0,0.0,0,,156
+LOCUS ACID PHOSPHATASE1,0,0.0,0,,157
+LOCUS 6-PHOSPHOGLUC DEHYDRO2,0,0.0,0,,132
+LOCUS 6-PHOSPHOGLUC DEHYDRO1,0,0.0,0,,132
+Days to Silk 10-19 latitude,0,0.0,0,,2
+GDU SILKING F LAT10-19,0,0.0,0,,2
+Days to Silk,0,0.0,0,,9
+LOCUS MALATE DEHYDROGENASE3,0,0.0,0,,156
+LOCUS MALATE DEHYDROGENASE4,0,0.0,0,,156
+Days to Shed 00-09 latitude,0,0.0,0,,18
+Days to Pollen Shed,0,0.0,0,,1
+GDU ANTHESIS F,0,0.0,0,,36
+DTS Relative 30-39 Latitude,0,0.0,0,,1
+Days to Shed 20-29 latitude,0,0.0,0,,1
+GDU ANTHESIS F LAT30-39,0,0.0,0,,1
+Days to Silk Relative to Check,0,0.0,0,,1
+LOCUS BETA GLUCOSIDASE1,0,0.0,0,,156
+LOCUS CATALASE3,0,0.0,0,,156
+LOCUS ENDOPEPTIDASE1,0,0.0,0,,156
+Secondary Race,0,0.0,0,,1792
+LOCUS MALATE DEHYDROGENASE5,0,0.0,0,,156
+LOCUS MOD. MIT. MAL. DEHYDRO1,0,0.0,0,,156
+LOCUS PHOSPHOGLUCOMUTASE1,0,0.0,0,,156
+LOCUS PHOSPHOGLUCOMUTASE2,0,0.0,0,,156
+LOCUS PHOSPHOHEXOSE ISOMERASE1,0,0.0,0,,156
+LOCUS MALATE DEHYDROGENASE2,0,0.0,0,,156
+Ethnic Group,0,0.0,0,,247
+GDU ANTHESIS F LAT20-29,0,0.0,0,,1054
+LOCUS ESTERASE8,0,0.0,0,,156
+GDU SILKING F LAT20-29,0,0.0,0,,537
+LOCUS MALATE DEHYDROGENASE1,0,0.0,0,,156
+LOCUS ISOCITR. DEHYDROGENASE2,0,0.0,0,,156
+LOCUS ISOCITR. DEHYDROGENASE1,0,0.0,0,,156
+LOCUS GLUTA-OXA. TRANSAMINASE3,0,0.0,0,,156
+LOCUS GLUTA-OXA. TRANSAMINASE2,0,0.0,0,,156
+LOCUS GLUTA-OXA. TRANSAMINASE1,0,0.0,0,,156
+Days to Silk 00-09 latitude,0,0.0,0,,26

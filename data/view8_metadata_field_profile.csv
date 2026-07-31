@@ -1,0 +1,14 @@
+field,pct,n_unique,role
+n_traits,100.0,49,always
+total_envs,100.0,130,always
+countryOfOriginCode,99.9,122,facet
+seedSource,99.8,587,facet
+IMPROVEMENT_LEVEL,99.7,6,facet
+ORIGIN,94.8,597,facet
+breedingMethodDbId,87.3,5,facet
+AVAILABILITY,63.4,2,facet
+SOURCE_DATE,52.4,1912,text/geo
+pedigree,32.5,2894,enrichment
+collection,31.8,11,facet
+COLLECTION_SITE,29.9,4862,text/geo
+NARRATIVE,27.3,7515,text/geo

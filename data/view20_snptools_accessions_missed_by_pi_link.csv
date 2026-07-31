@@ -1,0 +1,92 @@
+accession,n_traits,total_envs,in_snptools,collection,pedigree,countryOfOriginCode,IMPROVEMENT_LEVEL,PLANT_NAME,snptools_name,snptools_bioproject,was_in_my_callable_tier
+Ames 19011,20,23,False,Maize.Group.Ames.Panel.2010,VaCBS(S)C2,USA,Breeding material,Va38,VA38,PRJEB56320,True
+Ames 20116,29,58,False,Maize.Group.Ames.Panel.2010,(K10 x Ky49/Manmoth White Pearl),USA,Breeding material,Mo23W,MO23W,PRJEB56320,True
+Ames 22757,18,23,False,Maize.Group.Ames.Panel.2010,NY3 X Pa54,USA,Cultivar,Pa405,PA405,PRJEB56320,True
+Ames 2328,19,22,False,Maize.Group.Ames.Panel.2010,,CHN,Breeding material,North 7,NORTH7,PRJEB56320,True
+Ames 2333,30,47,False,Maize.Group.Ames.Panel.2010,,CHN,Breeding material,Yong 28,YONG28,PRJEB56320,True
+Ames 27117,17,18,False,Maize.Group.Ames.Panel.2010,,USA,Breeding material,Ia5125B,IA5125B,PRJEB56320,True
+Ames 27196,32,65,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Vucovar Yellow dent variety,SRB,Breeding material,Yu796_NS,YU796NS,PRJEB56320,True
+Ames 28928,28,32,False,Maize.Group.Ames.Panel.2010,See Hansey et.al. 2011,USA,Breeding material,Mo28W,MO28W,PRJEB56320,True
+Ames 28937,24,40,False,Maize.Group.Ames.Panel.2010,See Hansey et.al. 2011,USA,Breeding material,Mo39,MO39,PRJEB56320,True
+Ames 34383,15,30,False,,G17TSR-HS5-2-4-7-1-1-1-B,MEX,Cultivar,CML 422,CML422,PRJNA531553,True
+Ames 34386,15,15,False,,((NPH-28-1/G25)/NPH-28-1)-1-2-1-1-3-1-B,MEX,Cultivar,CML 451,CML451,PRJNA531553,True
+Ames 34387,15,15,False,,P147-F2-110-1-2-B-2,MEX,Cultivar,CML 471,CML471,PRJNA531553,True
+Ames 34388,15,15,False,,P45-C8-76-1-2-1-2-B,MEX,Cultivar,CML 486,CML486,PRJNA531553,True
+NSL 65872,19,37,False,Maize.Group.Ames.Panel.2010,L 289-4-3-5-2-4-1-1-3-3. Lancaster Surecrop.,USA,Breeding material,L 289,L289,PRJEB56320,True
+PI 146368,30,76,False,,(JC33 x L317)-B-B-S1-2-3-X Composite,USA,Breeding material,CI 7,CI7,PRJNA531553,True
+PI 146374,28,33,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Wilson Farm Reid,USA,Breeding material,Wf9,WF9,PRJNA609577,True
+PI 151090,28,32,False,Maize.Iowa.Stiff.Stalk.Inbreds,"Ill. Two-ear (from H.A. Wallace, Pioneer TEA54)",USA,Breeding material,CI 540,CI540,PRJEB56320,True
+PI 151531,18,34,False,,,USA,Breeding material,Os426,OS426,PRJEB56320,True
+PI 198892,30,33,False,Maize.Group.Ames.Panel.2010,,ARG,Breeding material,4F-234 BX 4,4F-234BX4,PRJEB56320,True
+PI 198897,45,58,False,Maize.Group.Ames.Panel.2010,,ARG,Breeding material,4F-306 108,4F-306_108,PRJEB56320,True
+PI 200182,24,25,False,Maize.Group.Ames.Panel.2010,,ISR,Breeding material,NY 159 (Neveh Yaar),NY159_NEVEHYAAR,PRJEB56320,True
+PI 221773,19,20,False,Maize.Group.Ames.Panel.2010,,ZAF,Breeding material,A415-1-3 INBRED,A415-1-3-INBRED,PRJEB56320,True
+PI 303924,28,29,False,Maize.Group.Ames.Panel.2010,Developed from Dnepropetrovskaya an open-pollinated variety.,108,Breeding material,NO. 380,NO-380,PRJEB56320,True
+PI 369438,20,22,False,Maize.Group.Ames.Panel.2010,,POL,Breeding material,K 10,K10,PRJNA531553,True
+PI 369446,21,22,False,Maize.Group.Ames.Panel.2010,,POL,Breeding material,U 123,U-123,PRJEB56320,True
+PI 405707,21,25,False,Maize.Group.Ames.Panel.2010,,CHN,Breeding material,HUA 94 INBRED,Hua94,PRJNA609577,True
+PI 427109,20,22,False,Maize.Group.Ames.Panel.2010,,CHN,Breeding material,Eng-li Chih,ENG-LICHIH,PRJEB56320,True
+PI 506246,33,103,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,TZB/TZSR,NGA,Breeding material,Tzi 8,Tzi8,PRJEB31061,True
+PI 517968,18,24,False,Maize.Group.Ames.Panel.2010,Selection from PA Virus resistant early synthetic.,USA,Breeding material,Pa392,PA392,PRJEB56320,True
+PI 517971,19,51,False,Maize.Group.Ames.Panel.2010,Selection from an Indian corn population,USA,Breeding material,Pa468,PA468,PRJEB56320,True
+PI 531083,20,26,False,Maize.Group.Ames.Panel.2010,Selected from PA91/T226 * 2/PA91 after five cycles of selfing and selection in ear to row manner,USA,Breeding material,Pa891,PA891,PRJEB56320,True
+PI 535914,29,33,False,Maize.Group.Ames.Panel.2010,,POL,Breeding material,S 22,S22,PRJNA531553,True
+PI 539930,29,32,False,Maize.Group.PVP,1202 X 1250 .  1202 is PAG 1202 which was improved PAG 330 for stalk quality using WF9 as donor.  1250 is A641 which is ND203 X B14.,FRA,Cultivar,RS 710,RS_710,PRJNA609577,True
+PI 550558,31,36,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Developed from selfing and selection for 6 generations the cross B68 and an inbred derived from B37 Ht//(C103/Mp3204 double cross)selection.,USA,Breeding material,DE811,De811,PRJCA009749,True
+PI 550695,29,82,False,Maize.Group.PVP,Pioneer 3901 hybrid X A632 .  Pioneer 3901 hybrid is known as EVA in Europe.,FRA,Cultivar,L 155,L155,PRJEB56320,True
+PI 555650,28,45,False,Maize.Group.PVP,((MBNS X (A selection from the hybrid 3901)) X (The same selection from Pioneer 3901 hybrid),USA,Cultivar,LIBC 4,LIBC_4,PRJNA609577,True
+PI 558518,16,24,False,Maize.Group.Ames.Panel.2010,Developed from the open-pollinated variety Pipe Corn.,USA,Breeding material,Mo15W,MO15W,PRJEB56320,True
+PI 558531,16,26,False,Maize.Group.Ames.Panel.2010,Developed from the open-pollinated variety Pipe Corn.,USA,Breeding material,Mo16W,MO16W,PRJEB56320,True
+PI 559380,28,88,False,Maize.Group.PVP,Pioneer 3732 hybrid X BAAJ .  BAAJ is a proprietary line.  Five plants of Pioneer 373 were pollinated with pollen from BAAJ.,USA,Cultivar,ICI 193,ICI193,PRJEB56320,True
+PI 559381,30,60,False,Maize.Group.PVP,Pioneer 3377 hybrid X BEAD.  P3377 is a Pioneer proprietary hybrid.  BEAD is equivalent to Holden's proprietary line LH132.  Five plants of P3377 were pollinated with pollen from BEAD.,USA,Cultivar,ICI 441,ICI441,PRJEB56320,True
+PI 559382,29,55,False,Maize.Group.PVP,Pioneer 3377 hybrid X BEAD.  P3377 is a Pioneer proprietary hybrid.  BEAD is equivalent to Holden's proprietary line LH132.  Five plants of P3377 were pollinated with pollen from BEAD.,USA,Cultivar,ICI 740,ICI740,PRJEB56320,True
+PI 559383,29,31,False,Maize.Group.PVP,(B73 X Pa91) X B73,USA,Cultivar,ICI 893,ICI893,PRJEB56320,True
+PI 559384,30,55,False,Maize.Group.PVP,Pioneer 3540 hybrid.  This hybrid was selfed as Pioneer Brand experimental hybrid X0165.,USA,Cultivar,ICI 986,ICI986,PRJEB56320,True
+PI 560081,19,23,False,Maize.Group.Ames.Panel.2010,[(C103/Hooker's Ht B Source)(C1030C)] C103 Ht Ht.,USA,Breeding material,Pa778,PA778,PRJEB56320,True
+PI 576170,27,27,False,Maize.Group.PVP,LH82 X LH124,USA,Cultivar,LH169Ht,LH169HT,PRJEB56320,True
+PI 587131,42,54,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Supergold Popcorn,USA,Breeding material,HP301,Hp301,PRJEB31061,True
+PI 587136,24,32,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Pride of Saline,USA,Breeding material,Ky228,KY228,PRJNA609577,True
+PI 587137,37,61,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,A619 x R168,USA,Breeding material,Ms71,MS71,PRJEB31061,True
+PI 587148,36,104,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,L97 X K55 (2),USA,Breeding material,CI 66,CI66,PRJNA609577,True
+PI 593008,19,21,False,Maize.Group.Ames.Panel.2010,Sister line (MV conversion) of CI21E (=K577CxHy)BC2.,USA,Breeding material,Hi26,HI26,PRJEB56320,True
+PI 593010,20,23,False,Maize.Group.Ames.Panel.2010,"Sister line (MV conversion) of CM105 (India), (=Peru 330##329C#).",USA,Breeding material,Hi28,HI28,PRJEB56320,True
+PI 595541,32,86,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Pool 24: (Pool 24 FS119*FS54)-6-4-1-1-BB-f .  Pool 24 is also named Tropical late white dent (TLWD) and its components are mainly Tuxpeno materials from Mexico and late maturity materials from Central America.,MEX,Breeding material,CML 247,CML247,PRJEB31061,True
+PI 595550,32,111,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,"Population 43: Ferke 8243-51-1-1-B-##-1-BB-# .  Population 43 is also named La Posta and its components is a Tuxpeno synthetic composed of 16 inbred lines (1 ETO Blanco S1 & 15 S1s of Tuxpe?o collection, formed in 1963).",MEX,Breeding material,CML 277,CML277,PRJEB31061,True
+PI 595552,20,35,False,Maize.Group.Ames.Panel.2010,Population 24: P 24 C5FS34-2-3-B-### .  Population 24 is also named Antigua-Veracruz 181 and its components are Tuxpeno race collections Veracruz 181 and Antigua Group-2 (Antigua collections 1D to 8D).,MEX,Breeding material,CML 20,CML20,PRJNA531553,True
+PI 595554,20,36,False,Maize.Group.Ames.Panel.2010,"Population 27: P 27 C5FS1-1-3-B-### .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25).",MEX,Breeding material,CML 27,CML27,PRJNA531553,True
+PI 595555,17,17,False,Maize.Group.Ames.Panel.2010,"Population 27: P 27 C5FS35-8-3-B-####-B .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25).",MEX,Breeding material,CML 28,CML28,PRJNA531553,True
+PI 595556,19,21,False,Maize.Group.Ames.Panel.2010,"Population 27: P 27 C5FS71-3-1-B-f-B .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25).",MEX,Breeding material,CML 29,CML29,PRJNA531553,True
+PI 595557,18,29,False,Maize.Group.Ames.Panel.2010,"Population 27: P 27 C5FS117-1-4-B-#### .  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25).",MEX,Breeding material,CML 31,CML31,PRJNA531553,True
+PI 595558,19,34,False,Maize.Group.Ames.Panel.2010,"Population 28: P 28 TSR (S2 bulk)-11-2-4-B-1-## .  Population 28 is also named Amarillo Dentado and its components are Tuxpe?o, Caribbean, Brazilian germplasm, ETO amarillo, and 9 families from the tropical late yellow dent pool (Pool 26).",MEX,Breeding material,CML 32,CML32,PRJNA531553,True
+PI 595560,19,48,False,Maize.Group.Ames.Panel.2010,"Population 36: P 36 C5FS144-2-2-B-### .  Population 36 is also named Cogollero and it is a Caribbean composite involving 165 accessions from all the Caribbean islands. About 50 families from the Insect Disease Resistance Nursery (IDRN) population, 20 families from Pool 22, and 26 families from Pool 26.",MEX,Breeding material,CML 40,CML40,PRJNA531553,True
+PI 595562,17,18,False,Maize.Group.Ames.Panel.2010,"Pool 22: (Pool 22 x Pool 22)-2-2-3-1-BB-## .  Pool 22 is also named Tropical intermediate yellow dent (TIYD) and its components are materials from Mexico, Cuba, the Dominican Republic, Antigua, Brazil, Peru, India, Colombia, Puerto Rico Argentina, and Central America.",MEX,Breeding material,CML 282,CML282,PRJNA531553,True
+PI 595564,18,33,False,Maize.Group.Ames.Panel.2010,Population 24: P 24C5FS34-2-3-B-f-2#-BBB-## .  Population 24 is also named Antigua-Veracruz 181 and its components are Tuxpeno race collections Veracruz 181 and Antigua Group-2 (Antigua collections 1D to 8D).,MEX,Breeding material,CML 285,CML285,PRJNA531553,True
+PI 595565,29,95,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,"Population 24:(Pop.24 x Pop.27)-4-1-B-1-1-BB-## .  Population 24 is also named Antigua-Veracruz 181 and its components are Tuxpeno race collections Veracruz 181 and Antigua Group-2 (Antigua collections 1D to 8D).  Population 27 is also named Amarillo Cristalino-1 and its components are Tuxpeno, Cuba flints, ETO amarillo, and 15 families from the tropical late yellow flint pool (Pool 25).",MEX,Breeding material,CML 287,CML287,PRJNA531553,True
+PI 595567,18,33,False,Maize.Group.Ames.Panel.2010,Syn.Amarillo TSR-7-4-2-2-1-BB-##,MEX,Breeding material,CML 298,CML298,PRJNA531553,True
+PI 595569,19,50,False,Maize.Group.Ames.Panel.2010,Syn.Amarillo TSR-76-1-2-3-1-BB-####,MEX,Breeding material,CML 300,CML300,PRJNA531553,True
+PI 595571,17,17,False,Maize.Group.Ames.Panel.2010,Syn.Amarillo TSR-23-2-2-1-3-BB-####,MEX,Breeding material,CML 305,CML305,PRJNA531553,True
+PI 600729,35,64,False,Maize.Group.PVP,182Ht1-Blk-1 .  182Ht1-Blk-1 is a private selection related to A632 with Helminthosporium turcicum resistance and was the recurrent male parent.,USA,Cultivar,LP1 NR HT,LP1NRHT,PRJEB56320,True
+PI 600751,36,54,False,Maize.Group.PVP,Mo17 X (other unknown parent) .  First observed as an off type in a large field of Mo17.,USA,Cultivar,Seagull Seventeen,SeagullSeventeen,PRJCA009749,True
+PI 601728,30,34,False,Maize.Group.PVP,Pioneer 3901 hybrid X Pioneer 3780 hybrid.,FRA,Cultivar,L 139,L139,PRJCA009749,True
+PI 686067,18,22,False,Maize.Group.Ames.Panel.2010,,USA,Breeding material,SG 30A,SG-30A,PRJEB56320,True
+PI 690318,30,93,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,"Population 36: P 36C5F37-2-1-1-b1#b1-b1#b1-b1 .  Population 36 is also named Cogollero and it is a Caribbean composite involving 165 accessions from all the Caribbean islands. About 50 families from the Insect Disease Resistance Nursery (IDRN) population, 20 families from Pool 22, and 26 families from Pool 26.",MEX,Breeding material,CML 69,CML69,PRJEB31061,True
+PI 690319,29,90,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,"Population 44: P 44C4HC101-3-#1-1-B-### .  Population 44 is also named (AED) Tuxpeno and its compnents are AED and Tuxpe?o components.  AED (American Early Dent) was Boone County White from North-Carolina, before it was brought to Egypt in 1920.  The other component is an early cycle of short plant selections from Tuxpeno-1.",MEX,Breeding material,CML 103,CML103,PRJEB31061,True
+PI 690320,29,111,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,EV88SUWAN1-SR(BC5)-201-1-1-b-b,MEX,Breeding material,CML 228,CML228,PRJEB31061,True
+PI 690321,31,63,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Recy W.: 89[L/LMBR]17-B-5-3-1-4-B*4,MEX,Breeding material,CML 322,CML322,PRJEB31061,True
+PI 690322,29,60,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,Population 590: P 590C3F373-1-1-7-B-#-5-2-B-#-B,MEX,Breeding material,CML 333,CML333,PRJEB31061,True
+PI 690581,17,46,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,"Population 21: P 21C5F57-1-1-3-B1#B1-B1#B1-B1 .  Population 21 is also named Tuxpeno-1 and its components are Tuxpeno race collections Veracruz 48, Veracruz 143, Veracruz 174, Michoacan 137, Michoacan 166, V-520C, Colima Group 1-Mix.1, and 16 families from the tropical late white dent pool (Pool 24).",MEX,Breeding material,CML 61,CML61,PRJCA009749,False
+PI 690602,15,15,False,Maize.Group.Ames.Panel.2010,P24STE-C1-FS23-5-2-1-2-3-B,MEX,Breeding material,CML 289,CML289,PRJNA531553,True
+PI 690605,16,31,False,Maize.Group.Ames.Panel.2010,SINTAMTSR-76-1-2-3-2-B,MEX,Breeding material,CML 304,CML304,PRJNA531553,True
+PI 690606,15,29,False,Maize.Group.Ames.Panel.Post.2010,SINTAMTSR-61-3-2-8-2-B,MEX,Breeding material,CML 307,CML307,PRJNA531553,True
+PI 690610,30,61,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,"Population 33: P 33c2(STE)-102-2-B-2-B-1-B*3 .  Population 33 is also named Subtropical Temperate Intermediate Yellow Flint its components are yellow/orange flint segregates from the same germplasm used to form Pool 31, in addition to ""Temperate yellow flint composite"" (including germplasm from Europe, China, Mexico, Central and South America, and the USA), and other yellow germplasm from Europe, China, Mexico, South America, and the USA.",MEX,Breeding material,CML 323,CML323,PRJNA531553,True
+PI 690611,15,16,False,Maize.Group.Ames.Panel.2010,P45-C6-F28-1-2-B,MEX,Breeding material,CML 325,CML325,PRJNA531553,True
+PI 690612,15,26,False,Maize.Group.Ames.Panel.2010,P45-C6-F83-3-1-B,MEX,Breeding material,CML 327,CML327,PRJNA531553,True
+PI 690627,15,26,False,Maize.Group.Ames.Panel.2010,90323(B)-1-B-1-B*4,MEX,Breeding material,CML 395,CML395,PRJEB56320,True
+PI 692198,27,28,False,Maize.Iowa.Stiff.Stalk.Inbreds,Echelberger Clarage,USA,Breeding material,Oh 3167B,OH3167B,PRJEB56320,True
+PI 693326,32,65,False,Maize.Set.Inbred.Diversity.282.Plus.NAM.Parents,(C103 x T8^2)(K4 x C103^2),USA,Breeding material,Va59,VA59,PRJNA609577,True
+PI 694078,28,32,False,Maize.Group.Ames.Panel.2010,Recovered strain of Os420,USA,Breeding material,C.I. 40h,CI40H,PRJEB56320,True
+PI 694097,29,72,False,Maize.Group.Ames.Panel.2010,,USA,Breeding material,CI 90C,CI90C,PRJEB56320,True
+PI 694098,28,56,False,Maize.Group.Ames.Panel.2010,L97 x A71,USA,Breeding material,C.I. 91b,CI91B,PRJEB56320,True
+PI 698994,27,29,False,Maize.Group.Ames.Panel.2010,(74-R336 x FR805)B73^2 [white endosperm backcross version of B73],USA,Breeding material,H122w,H122W,PRJEB56320,True
+PI 698996,27,28,False,Maize.Group.Ames.Panel.2010,H White Synthetic D,USA,Breeding material,H124w,H124W,PRJEB56320,True
+PI 706561,27,53,False,Maize.Group.Ames.Panel.2010,IL557a X IL677a,USA,Breeding material,IL 778d,IL778D,PRJEB56320,True

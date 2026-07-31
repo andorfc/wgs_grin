@@ -1,0 +1,9 @@
+panel,n_total_ge15tr,n_in_snptools,n_not_in_snptools,median_traits_out,n_out_ge20_traits,median_total_envs_out,n_out_callable_now,n_out_low_cov,n_out_needs_seq,pct_out_with_pedigree,pct_out_with_country
+"Cultivated material, ≥20 traits",2708,194,2514,27.0,2514,28.0,134,81,2299,30.5,99.8
+Ames Panel 2010,1649,141,1508,27.0,1036,33.0,134,157,1217,71.2,100.0
+PVP ex-PVP inbreds,799,191,608,27.0,491,27.0,130,57,421,93.8,100.0
+282 + NAM parents,285,66,219,30.0,198,54.0,73,45,101,94.5,100.0
+Ames Panel post-2010,190,5,185,25.0,130,37.0,20,8,157,60.5,100.0
+Iowa Stiff Stalk inbreds,12,4,8,28.5,8,61.0,1,2,5,75.0,100.0
+"Landraces, ≥20 traits",1788,0,1788,26.0,1788,27.0,0,61,1727,3.5,100.0
+GEM releases (all),378,0,378,16.0,158,27.0,0,87,291,99.7,100.0

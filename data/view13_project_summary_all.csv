@@ -1,0 +1,236 @@
+project_id,study_title,center,n_samples,n_runs,strategies,tb,n_acc_matched,n_acc_in_snptools,n_acc_new,n_acc_hi_cov,n_acc_new_hi_cov,n_acc_new_hi_cov_ge15tr,median_traits
+PRJNA661271,Maize Wisconsin Diversity Panel Resequencing Project,SUB8090698,458,458,WGA,24.49,399,107,292,399,292,276,29.0
+PRJNA1170466,Genome resequencing data of 447 maize inbred lines,SUB14757114,447,447,WGS,6.98,102,40,62,96,59,52,29.0
+PRJEB56320,"Resequencing of a subset of the maize Wisconsin Diversity Panel (Hansey et al., 2011)",University of Nebraska-Lincoln,232,232,WGS,5.28,191,137,54,191,54,44,27.0
+PRJNA531553,Deep DNA resequencing of the association mapping panel,SUB5433549,521,521,WGS,25.19,63,11,52,63,52,36,19.0
+PRJNA644582,The maize structural variation map uncovered by Nanopore sequencing,SUB7607202,113,215,WGS,15.73,41,17,24,41,24,22,30.0
+PRJNA1142968,Evaluation of genetic diversity across the inbreds used by G2F project - 2024/2025 germpla,SUB14849924,453,453,WGS,3.5,73,13,60,18,15,15,26.0
+PRJNA609577,Zea mays subsp. mays Genome sequencing,SUB7075426,652,652,WGS,10.38,151,116,35,128,20,14,29.0
+PRJEB43263,EM-Seq for NAM lines with 2 replicates,European Bioinformatics Institute;Comput,76,88,OTHER,1.56,26,13,13,25,13,13,32.0
+PRJNA684330,Maize diversity to study rare alleles,SUB9028740,128,128,WGS,1.12,76,13,63,14,13,12,28.0
+PRJEB31061,Genome sequence and assembly of the twenty-five founder lines of the the Nested Associatio,MaizeGDB,24,637,WGA;WGS,7.55,23,12,11,23,11,11,32.0
+PRJNA1108025,Zea mays Raw sequence reads,SUB14427230,180,180,WGS,2.49,25,0,25,24,24,10,19.0
+PRJNA381642,Zea mays subsp. mays Genome sequencing,nan,12,12,WGS,0.7,12,6,6,12,6,6,34.0
+PRJNA479960,South American maize genome sequencing,SUB4227056,49,49,WGS,1.52,12,2,10,12,10,4,18.0
+PRJNA1123779,GBS sequencing of maize NAM population-1,SUB14512755,9,9,WGS,0.11,4,0,4,4,4,4,15.0
+PRJNA1196311,maize-HKW,SUB14916417,6,6,WGS,0.09,3,0,3,3,3,3,15.0
+PRJEB67812,Whole-genome sequencing and de novo assembly of 29 dent and flint maize inbred lines,INRAE - GeT-PlaGe;INRAE,29,106,WGS,6.24,12,9,3,12,3,3,33.0
+PRJNA272385,Zea mays subsp. mays Genome sequencing,Universita degli Studi di Udine,5,25,WGA;WGS,0.27,4,1,3,4,3,3,38.5
+PRJEB59044,Genome assemblies of corn inbreds used by the G2F project,Cornell University,13,32,WGS,0.5,6,1,5,2,2,2,30.0
+PRJEB66502,Genome assemblies of inbreds capturing diverse maize haplotypes,Cornell University,2,6,WGS,0.1,2,0,2,2,2,2,23.0
+PRJNA168265,Zea mays subsp. mays Genome sequencing,MSU-BUELL,3,29,WGS,0.46,2,0,2,2,2,2,25.0
+PRJNA1011459,Study on maize ear length by a multiple parental population,SUB13804196,134,134,WGS,0.27,2,0,2,2,2,2,15.0
+PRJNA1116581,Studies on the quality of maize in tropical subtropics,SUB14484057,7,7,WGS,0.11,2,0,2,2,2,2,15.0
+PRJEB64865,The Genetics of Highland Adaptation in Maize,MaizeGDB,7,24,WGS,0.58,3,0,3,3,3,2,16.0
+PRJNA251193,Zea mays strain:PHG72 Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,33.0
+PRJNA251187,Zea mays strain:LH156 Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,31.0
+PRJNA251180,Zea mays strain:LH85 Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,30.0
+PRJNA251186,Zea mays strain:NC230 Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,1,30.0
+PRJNA251182,Zea mays strain:LH145 Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,36.0
+PRJNA251181,Zea mays strain:LH93 Genome sequencing,nan,1,3,WGS,0.15,1,0,1,1,1,1,34.0
+PRJNA332965,Zea mays strain:W37A | cultivar:W37A Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,28.0
+PRJNA251179,Zea mays strain:W605S Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,27.0
+PRJNA628111,GBS analysis on maize F2 population,SUB7094067,293,293,WGS,0.48,5,1,4,2,1,1,25.0
+PRJNA635654,Zea mays isolate:Zm00056a Genome sequencing and assembly,SUB7938908,12,35,WGS,0.63,1,0,1,1,1,1,30.0
+PRJNA251176,Zea mays strain:PHN11 Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,31.0
+PRJNA251175,Zea mays strain:CR1HT Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,1,35.0
+PRJNA251173,Zea mays strain:PHG83 Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,1,36.0
+PRJNA251172,Zea mays strain:Mo45 Genome sequencing,nan,1,3,WGS,0.15,1,0,1,1,1,1,23.0
+PRJNA251178,Zea mays strain:W604S Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,26.0
+PRJNA332961,Zea mays strain:PHR03 | cultivar:PHR03 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,20.0
+PRJNA251204,Zea mays cultivar:Mo44 Genome sequencing,nan,1,2,WGS,0.11,1,0,1,1,1,1,29.0
+PRJNA263415,Zea mays subsp. mays Targeted Locus (Loci),University of Delaware,6,6,OTHER,0.09,5,3,2,4,1,1,42.0
+PRJNA332953,Zea mays strain:PHK46 | cultivar:PHK46 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,29.0
+PRJNA332956,Zea mays strain:PHKM5 | cultivar:PHKM5 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,29.0
+PRJNA332951,Zea mays strain:PHAA0 | cultivar:PHAA0 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,29.0
+PRJNA332950,Zea mays strain:NP899 | cultivar:NP899 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,29.0
+PRJNA332948,Zea mays strain:LH74 | cultivar:LH74 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,35.0
+PRJNA332947,Zea mays strain:LH59 | cultivar:LH59 Genome sequencing,nan,1,1,WGS,0.04,1,0,1,1,1,1,31.0
+PRJNA556665,Genetic Mapping of Maize Resistance to Tetranychus urticae,SUB6061515,9,9,WGS,0.14,1,0,1,1,1,1,30.0
+PRJNA332945,Zea mays strain:LH198 | cultivar:LH198 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,29.0
+PRJNA565870,Resequencing of 775 maize inbred lines,SUB6268646,774,774,WGS,2.59,227,109,118,3,1,1,30.0
+PRJNA332943,Zea mays strain:LH168 | cultivar:LH168 Genome sequencing,nan,1,1,WGS,0.04,1,0,1,1,1,1,29.0
+PRJNA332942,Zea mays strain:LH146Ht | cultivar:LH146Ht Genome sequencing,nan,1,1,WGS,0.06,1,0,1,1,1,1,31.0
+PRJNA332941,Zea mays strain:FBLL | cultivar:FBLL Genome sequencing,nan,1,1,WGS,0.04,1,0,1,1,1,1,29.0
+PRJNA332940,Zea mays strain:A188 | cultivar:A188 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,30.0
+PRJNA332939,Zea mays cultivar:3IIH6 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,29.0
+PRJNA543394,Sequencing of A188 genome,SUB5618898,1,3,OTHER;WGS,0.57,1,0,1,1,1,1,30.0
+PRJNA332960,Zea mays strain:PHP38 | cultivar:PHP38 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,30.0
+PRJNA251166,Zea mays strain:PHG29 Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,1,33.0
+PRJNA251167,Zea mays strain:PHG47 Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,1,33.0
+PRJNA339461,Zea mays subsp. mays Raw sequence reads,University of Georgia,10,11,WGS,0.16,1,0,1,1,1,1,36.0
+PRJNA251136,Zea mays strain:LH123HT Genome sequencing,nan,1,3,WGS,0.13,1,0,1,1,1,1,35.0
+PRJNA1308157,Zea mays A427 centromeres,SUB15558511,2,5,OTHER,0.12,2,1,1,1,1,1,37.5
+PRJNA974168,Genomic analysis of a new heterotic maize group,SUB13362025,17,35,WGS,0.63,2,0,2,2,2,1,14.0
+PRJEB32404,"Illumina and PacBio reads of NC358, one of the twenty-five founder lines of the the Nested",MaizeGDB,1,22,WGA;WGS,0.25,1,0,1,1,1,1,34.0
+PRJEB35367,Genome sequence and assembly of abnormal chromosome 10 genome Ab10,MaizeGDB,1,24,WGA;WGS,0.45,1,0,1,1,1,1,25.0
+PRJEB44462,"Sequencing, Assembly and Annotation of B104",MaizeGDB,1,37,WGA;WGS,0.17,1,0,1,1,1,1,35.0
+PRJEB56295,Resequencing of eight Polish maize inbred lines.,University of Warsaw,8,8,WGS,0.27,1,0,1,1,1,1,26.0
+PRJNA822510,"The Combination of Conventional QTL Analysis, Bulked-Segregant Analysis, and RNA-sequencin",SUB11262577,4,4,WGS,0.31,2,0,2,2,2,1,39.0
+PRJNA251135,Zea mays strain:PHJ40 Genome sequencing,nan,1,3,WGS,0.15,1,0,1,1,1,1,33.0
+PRJNA1171432,Off target analysis of CRISPR-Cas9 edited H99 callus in maize,SUB14767248,1,1,WGS,0.02,1,0,1,1,1,1,38.0
+PRJNA481365,Genetic Mapping of Resistance to Tetranychus urticae in Maize,SUB4291767,7,7,WGS,0.2,3,0,3,2,2,1,30.0
+PRJNA771871,Genomic sequences of spider mite resistant maize lines B96 and B75,SUB10525041,2,4,WGS,0.37,2,0,2,2,2,1,30.0
+PRJNA1247151,Genome sequencing of wheat-maize hybrids (Zeawheat) produced by in vitro fertilization,SUB15233481,1,1,WGS,0.03,1,0,1,1,1,1,30.0
+PRJNA332954,Zea mays strain:PHK56 | cultivar:PHK56 Genome sequencing,nan,1,1,WGS,0.05,1,0,1,1,1,1,30.0
+PRJNA701651,Zea mays LH145 Standard Draft genome sequencing,nan,2,81,OTHER;WGS,0.43,1,0,1,1,1,1,36.0
+PRJNA701650,Zea mays PHB47 Standard Draft genome sequencing,nan,1,44,OTHER,0.33,1,0,1,1,1,1,35.0
+PRJNA251134,Zea mays strain:PHW65 Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,1,30.0
+PRJNA701652,Zea mays PHJ40 Standard Draft genome sequencing,nan,1,49,OTHER,0.39,1,0,1,1,1,1,33.0
+PRJNA251121,Zea mays strain:PHB47 Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,1,35.0
+PRJNA332955,Zea mays cultivar:PHK76 Genome sequencing,nan,1,1,WGS,0.06,1,0,1,1,1,1,31.0
+PRJNA455915,Zea mays PHN11 Exome Capture - PHN11.3,nan,1,1,WXS,0.0,1,0,1,0,0,0,31.0
+PRJNA455914,Zea mays PHN11 Exome Capture - PHN11.2,nan,1,1,WXS,0.0,1,0,1,0,0,0,31.0
+PRJNA455913,Zea mays PHG47 Exome Capture - PHG47.4,nan,1,1,WXS,0.0,1,0,1,0,0,0,33.0
+PRJNA455912,Zea mays PHG47 Exome Capture - PHG47.3,nan,1,1,WXS,0.0,1,0,1,0,0,0,33.0
+PRJNA455911,Zea mays Oh43 Exome Capture - Oh43.3,nan,1,1,WXS,0.0,1,1,0,0,0,0,37.0
+PRJNA493133,ChIA-PET of Immature ear and shoot forZea mays (rep2 old),China Agricultural University,2,4,OTHER,0.54,1,1,0,1,0,0,48.0
+PRJNA455917,Zea mays PHW65 Exome Capture - PHW65.3,nan,1,1,WXS,0.0,1,0,1,0,0,0,30.0
+PRJNA554154,W22 shotgun sequencing,SUB5942578,1,1,WGS,0.02,1,1,0,1,0,0,33.0
+PRJNA455909,Zea mays Mo44 Exome Capture - Mo44.3,nan,1,1,WXS,0.0,1,0,1,0,0,0,29.0
+PRJNA528970,Zea mays strain:NC350 | isolate:Ames 27171 Genome sequencing,nan,1,1,WGS,0.11,1,1,0,1,0,0,34.0
+PRJNA528290,Hybrid_Decay_WGS,nan,6,6,WGS,0.01,1,1,0,0,0,0,33.0
+PRJNA455916,Zea mays PHW65 Exome Capture - PHW65.2,nan,1,1,WXS,0.0,1,0,1,0,0,0,30.0
+PRJNA456523,Zea mays Mo44.2 Exome Capture - Mo44.2,nan,1,1,WXS,0.0,1,0,1,0,0,0,29.0
+PRJNA456520,Zea mays Exome B73 Capture - 148631,nan,1,1,WXS,0.0,1,1,0,0,0,0,48.0
+PRJNA510838,barren stalk3,SUB4934540,1,1,WGS,0.06,1,1,0,1,0,0,48.0
+PRJNA540700,Locus-specific paramutation in Zea mays is manifest by a chromodomain helicase DNA-binding,SUB5567119,2,2,WGS,0.06,1,1,0,1,0,0,40.0
+PRJNA456545,Zea mays LH145 Exome Capture - 148692,nan,1,1,WXS,0.0,1,0,1,0,0,0,36.0
+PRJNA456546,Zea mays Oh43 Exome Capture - 148614,nan,1,1,WXS,0.0,1,1,0,0,0,0,37.0
+PRJNA456547,Zea mays Oh43 Exome Capture - Oh43.2,nan,1,1,WXS,0.0,1,1,0,0,0,0,37.0
+PRJNA456567,Zea mays PHG47 Exome Capture - PHG47.2,nan,1,1,WXS,0.0,1,0,1,0,0,0,33.0
+PRJNA528974,Zea mays subsp. parviglumis cultivar:Til 11 Genome sequencing and assembly,nan,2,2,WGS,0.21,1,0,1,1,1,0,
+PRJNA530187,Evaluation of genetic diversity across the inbreds used by G2F project (WGS skim sequencin,SUB6524173,909,909,WGS,6.33,11,4,7,0,0,0,31.0
+PRJNA518749,maize cistrome,SUB7831279,2,2,OTHER,0.0,1,1,0,0,0,0,48.0
+PRJNA482446,Maize raw sequence reads,SUB7864738,662,662,OTHER,0.07,184,9,175,0,0,0,23.0
+PRJNA483084,First six generations of selfing maize landraces genomes,SUB4044294,45,56,WGS,0.41,2,0,2,0,0,0,14.5
+PRJNA486213,C3C4 ENCODE project,SUB4372619,16,16,OTHER,1.11,1,1,0,1,0,0,48.0
+PRJNA489924,Genome-wide association study for cuticular evaporation rate in maize,SUB4497815,456,456,OTHER,0.07,388,117,271,0,0,0,28.0
+PRJNA533220,Differential methylation in maize grown under water deficiency (drought stress),SUB5484864,42,42,OTHER,0.03,1,1,0,0,0,0,48.0
+PRJDB36669,maize BSA project (PRJCA039737),NGDC,2,2,WGA,0.14,1,1,0,1,0,0,48.0
+PRJNA554340,B73 shotgun sequencing,SUB5948453,1,1,WGS,0.05,1,1,0,1,0,0,33.0
+PRJNA872368,Zea mays Raw sequence reads,SUB11965396,10,19,OTHER,0.14,1,1,0,1,0,0,48.0
+PRJNA808651,Maize B73 plastid DNA sequencing,SUB11094284,4,4,WGA,0.14,1,1,0,1,0,0,48.0
+PRJNA815957,BREEDIT: a novel breeding strategy using multiplex genome editing in maize,SUB13171982,288,288,OTHER,0.03,1,0,1,0,0,0,35.0
+PRJNA824524,Systematic optimization of Cas12a base editors in wheat and maize using the ITER platform,nan,7,7,OTHER,0.01,1,0,1,0,0,0,35.0
+PRJNA82843,Zea mays subsp. mays Genome sequencing,"China Agricultural University, College o",273,360,WGS,1.22,1,1,0,1,0,0,46.0
+PRJNA832702,Decoding the gene regulatory network of endosperm differentiation in maize [DAP-seq],nan,115,115,OTHER,0.76,1,1,0,1,0,0,48.0
+PRJNA835624,Nanopore long-read sequencing of W22 r1-sc:m3 genomic DNA,SUB11431882,1,193,WGS,0.0,1,1,0,0,0,0,33.0
+PRJNA864113,Mitochondrial genome of Maize CMS-S subtypes,SUB11876465,2,2,WGS,0.01,1,1,0,0,0,0,46.0
+PRJNA873142,Zea mays Raw sequence reads,SUB11969104,14,27,OTHER,0.22,1,1,0,1,0,0,48.0
+PRJNA763107,Zea mays Raw sequence reads,SUB10376057,210,210,OTHER,0.26,2,0,2,0,0,0,17.0
+PRJNA884295,DAP-seq Analysis of Transcription Factors Associated with Maize Endosperm Development,nan,6,6,OTHER,0.01,1,1,0,0,0,0,48.0
+PRJNA889703,Eco-evolutionary maize microbiome,SUB12144956,129,129,OTHER,0.46,94,4,90,0,0,0,22.5
+PRJNA894503,Evaluation of genetic diversity across inbreds used by GEM project (WGS skim sequencing),SUB12221202,133,133,WGS,0.65,95,1,94,0,0,0,15.0
+PRJNA932006,Zea mays 4C datasets from Pl1-Rhoades husk and seedling tissue,SUB12766510,6,6,OTHER,0.0,1,1,0,0,0,0,40.0
+PRJNA933521,maize chlorophyll-deficient mutant,SUB12810695,2,2,WGS,0.15,1,1,0,1,0,0,48.0
+PRJNA948871,Zea mays Genome sequencing,SUB12990703,308,308,OTHER,0.21,146,79,67,0,0,0,30.0
+PRJNA961163,MOA-seq of B73 leaf,SUB13164423,3,3,OTHER,0.09,1,1,0,1,0,0,48.0
+PRJNA778629,Maize RIL population Parental re-sequencing 209 progeny SLAF simple sequencing,SUB10611703,211,211,WGS,0.43,2,2,0,0,0,0,36.0
+PRJNA759188,DNA demethylation in maize endosperm,SUB10302972,23,86,OTHER;WGS,0.96,2,2,0,2,0,0,40.5
+PRJNA555523,DAP-seq,SUB6001799,6,6,OTHER,0.04,1,1,0,0,0,0,48.0
+PRJNA455907,Zea mays LH145 Exome Capture - LH145.3,nan,1,1,WXS,0.0,1,0,1,0,0,0,36.0
+PRJNA579828,Zea mays Raw reads from GBS-Seq,SUB6460050,182,182,OTHER,0.21,22,6,16,0,0,0,21.5
+PRJNA587226,Using PacBio-sequencing and RNA-seq to profile the transcriptome in response to N,SUB6475901,3,3,OTHER,0.01,1,1,0,0,0,0,48.0
+PRJNA597703,Resequencing of maize CUBIC population,SUB6735749,1493,1517,WGS,5.4,3,1,2,3,2,0,15.0
+PRJNA606801,Maize seed system diversity in New Vermont farming communities,SUB6933693,187,187,WGS,1.73,1,0,1,0,0,0,
+PRJNA610093,DAP-seq analysis of ZmEREB205,SUB7027973,2,2,OTHER,0.02,1,1,0,0,0,0,48.0
+PRJNA627044,The GBS data of 365 recombinant inbred lines derived from inbreds Ye478 and Qi319,SUB7302962,365,365,WGS,0.16,65,7,58,0,0,0,27.0
+PRJNA627939,"Mouse, Strawberry, Frog, Maize, 20 Strain Staggered Metagenomes",SUB7310614,1,2,WGS,0.83,1,1,0,1,0,0,48.0
+PRJNA638210,Small RNAs mediate transgenerational inheritance of genome-wide trans-acting epialleles in,SUB7569536,4,4,WGS,0.07,2,2,0,1,0,0,47.0
+PRJNA755430,CAAS Founder Inbred Lines,SUB10020082,12,394,WGS,4.08,4,3,1,4,1,0,36.0
+PRJNA660275,Characterization of distinct types of open chromatin and their impacts on gene transcripti,GEO,2,2,OTHER,0.13,1,1,0,1,0,0,48.0
+PRJNA683126,Target interval capture sequencing of 352 maize inbred lines,SUB8457389,352,352,OTHER,2.71,35,4,31,0,0,0,18.0
+PRJNA698070,Genome and transcriptome assembly of Zea mays subsp. parviglumis,SUB8983130,2,2,WGA,0.03,1,0,1,1,1,0,
+PRJNA701654,Zea mays B84 Standard Draft genome sequencing,nan,2,36,OTHER;WGS,0.36,1,0,1,1,1,0,13.0
+PRJNA726631,BS and M data for maize,SUB10468509,1,1,WGS,0.0,1,1,0,0,0,0,48.0
+PRJNA736453,Maize functional centromere,SUB9809807,1,2,WGA,0.03,1,1,0,1,0,0,48.0
+PRJNA751841,Zea mays Mo17 Genome sequencing and assembly,SUB10131386,46,46,WGS,0.83,1,1,0,1,0,0,46.0
+PRJNA455908,Zea mays Mo44 Exome Capture - Mo44.1,nan,1,1,WXS,0.0,1,0,1,0,0,0,29.0
+PRJNA332964,Zea mays strain:PHW52 | cultivar:PHW52 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,31.0
+PRJNA455906,Zea mays LH145 Exome Capture - LH145.2,nan,1,1,WXS,0.0,1,0,1,0,0,0,36.0
+PRJNA208216,Zea mays subsp. mays Genome sequencing,MSU-BUELL,5,5,WGS,1.37,1,0,1,1,1,0,2.0
+PRJNA1221219,"Life, the universe, and everything for $42: WideSeq mapping of maize mutants",SUB15077372,17,17,WGS,0.0,1,1,0,0,0,0,48.0
+PRJNA1227007,Quick creation and mapping of EMS-induced maize kernel mutants identifies classical gene Z,SUB15105394,4,4,WGS,0.23,1,1,0,1,0,0,48.0
+PRJNA1286006,Enzymatic exome sequencing and its application to triaged genotyping of multiplexed CRISPR,SUB15435585,3,3,WGS,0.09,1,1,0,1,0,0,48.0
+PRJNA1321128,Resequencing data of the BT population,SUB15588306,825,825,WGS,5.99,17,2,15,1,1,0,28.0
+PRJNA1328383,Resequencing data of the MT population,SUB15608609,627,627,WGS,5.3,1,0,1,0,0,0,
+PRJNA1363691,plant metagenome Metagenome,SUB15771167,60,60,WGS,0.0,1,1,0,0,0,0,48.0
+PRJNA169551,Zea mays subsp. mays Genome sequencing,Michigan State University,1,11,OTHER,0.01,1,1,0,0,0,0,48.0
+PRJNA172919,Zea mays subsp. mays Genome sequencing,MSU-BUELL,773,945,OTHER,0.05,4,0,4,0,0,0,25.0
+PRJNA239372,Zea mays subsp. mays Variation,University of California,2,2,WGS,0.03,1,0,1,1,1,0,13.0
+PRJNA1177240,BSA Sequencing,SUB14803267,2,2,WGS,0.13,1,1,0,1,0,0,48.0
+PRJNA251168,Zea mays strain:B84 Genome sequencing,nan,1,3,WGS,0.14,1,0,1,1,1,0,13.0
+PRJNA251169,Zea mays strain:PHG39 Genome sequencing,nan,1,3,WGS,0.14,1,1,0,1,0,0,35.0
+PRJNA251170,Zea mays strain:Mo17 Genome sequencing,nan,1,3,WGS,0.14,1,1,0,1,0,0,46.0
+PRJNA251171,Zea mays strain:PHG50 Genome sequencing,nan,1,3,WGS,0.15,1,1,0,1,0,0,35.0
+PRJNA251174,Zea mays strain:Oh43 Genome sequencing,nan,1,3,WGS,0.14,1,1,0,1,0,0,37.0
+PRJNA251177,Zea mays strain:PH207 Genome sequencing,nan,1,3,WGS,0.15,1,1,0,1,0,0,35.0
+PRJNA251195,Zea mays strain:PHG35 Genome sequencing,nan,1,3,WGS,0.13,1,1,0,1,0,0,35.0
+PRJNA258455,Zea mays subsp. mays strain:PH207 Genome sequencing,University of Illinois Urbana-Champaign,1,16,WGS,0.55,1,1,0,1,0,0,35.0
+PRJNA1187259,Detail-Seq of the 14-DAP plastid,SUB14863200,10,10,WGS,0.46,1,1,0,1,0,0,48.0
+PRJNA1174741,ZmEMF1a inhibits early and late endosperm cell proliferation by H3K27me3 modification in m,SUB14794561,7,7,OTHER,0.18,1,1,0,1,0,0,48.0
+PRJNA455905,Zea mays LH145 Exome Capture - LH145.1,nan,1,1,WXS,0.0,1,0,1,0,0,0,36.0
+PRJNA10769,Zea mays Genome sequencing and assembly,nan,1,213,WGS,0.49,1,1,0,1,0,0,48.0
+PRJEB32225,Long-read sequencing and assembly of version 5 of the B73 maize genome,MaizeGDB,1,22,WGA;WGS,0.37,1,1,0,1,0,0,48.0
+PRJEB36105,OurcrossSeq in maize,Shanghai Normal University,804,804,WGS,1.19,2,2,0,2,0,0,47.0
+PRJEB69301,Simultaneous Accessibility and DNA Methylation Sequencing (SAM-seq),Institut des Sciences des Plantes - Pari,13,13,WGS,0.0,1,1,0,0,0,0,48.0
+PRJNA1012554,Direct RNA sequencing data from maize nanopores,SUB13814534,2,2,WGS,0.01,1,1,0,0,0,0,48.0
+PRJNA1032576,Maize Genetics Stock Center 605F-derived spontaneous albino mutant,SUB13974656,2,2,WGS,0.36,1,1,0,1,0,0,48.0
+PRJNA1041861,Whole genome sequencing of A632 maize inbred line,SUB11946921,1,16,WGS,0.09,1,1,0,1,0,0,39.0
+PRJNA1046592,HSF20 targets downstream genes in maize by RNA-seq and DAP-seq,SUB14030672,3,3,OTHER,0.02,1,1,0,0,0,0,48.0
+PRJNA1047951,Zea mays Raw sequence reads,SUB14014047,2,2,WGS,0.15,1,1,0,1,0,0,48.0
+PRJNA1089109,Fast-flowering mini-maize: Genomic ancestry,SUB14315624,18,52,OTHER,0.0,1,0,1,0,0,0,15.0
+PRJNA1172298,Dynamic regulation of H3K27me3 to balance maize endosperm filling and development,SUB14781821,4,4,OTHER,0.07,1,1,0,1,0,0,48.0
+PRJNA1095206,Seedling root system adaptation to water availability during maize domestication and globa,SUB14354004,71,71,WGS,1.05,1,1,0,1,0,0,48.0
+PRJNA1095849,Chloroplast rearrangement,SUB14316811,1,24,WGS,1.18,1,1,0,1,0,0,48.0
+PRJNA1110214,4C-seq TSS ZmRap2.7,SUB14444165,6,6,OTHER,0.01,1,1,0,0,0,0,48.0
+PRJNA1119563,The maize regulatory landscape at single molecule resolution,SUB14494635,2,2,OTHER,0.06,1,1,0,1,0,0,48.0
+PRJNA1136904,"Replication timing by DNA copy number analysis, using G1 phase and EdU-S phase",SUB14561503,2,6,WGS,0.49,1,1,0,1,0,0,48.0
+PRJNA1137362,"Replication timing by DNA copy number analysis, using DNA content flow sorting of G1 phase",SUB14610852,4,12,WGS,0.1,1,1,0,1,0,0,48.0
+PRJNA1162020,"GRAS Family Transcription Factor Binding Behaviors in Sorghum bicolor, Rice, and Maize",SUB14730419,2,2,OTHER,0.01,1,1,0,0,0,0,48.0
+PRJNA1162684,plant root exosomes DNA sequencing,SUB14733602,1,1,WGS,0.02,1,1,0,1,0,0,48.0
+PRJNA260788,Zea mays Variation,Helmholtz Zentrum Munich,31,33,WGS,1.29,5,5,0,5,0,0,37.0
+PRJNA261658,Zea mays Genome sequencing,Huazhong Agricultural University,97,97,WGA,0.43,19,1,18,0,0,0,24.0
+PRJNA261802,Zea mays Epigenomics,University of Georgia,1,4,OTHER,0.03,1,1,0,1,0,0,48.0
+PRJNA407486,Linked read technology for assembling large complex and polyploid genomes,SUB3049401,1,1,WGS,0.11,1,1,0,1,0,0,48.0
+PRJNA359097,Zea mays,nan,27,27,OTHER,0.02,26,14,12,0,0,0,32.5
+PRJNA359098,Zea mays,nan,27,27,OTHER,0.02,26,14,12,0,0,0,32.5
+PRJNA360920,Strategies for the adaptation of crop plants to climate change - Improving cold tolerance ,SUB5725702,1,10,WGS,0.77,1,1,0,1,0,0,31.0
+PRJNA383410,Zea mays- aladin,SUB2591462,1,9,WGS,0.04,1,1,0,1,0,0,48.0
+PRJNA385842,Zea mays subsp. mays Raw sequence reads,nan,25,25,OTHER,0.0,24,13,11,0,0,0,32.5
+PRJNA385849,Zea mays subsp. mays Raw sequence reads,nan,1835,2044,OTHER,0.35,9,1,8,0,0,0,27.5
+PRJNA388821,Zea mays-Mo17,SUB2743801,1,1,WGS,0.04,1,1,0,1,0,0,46.0
+PRJNA391551,Diverse 3D chromatin architecture of medium and large plant genomes,nan,34,34,OTHER,0.9,1,1,0,1,0,0,48.0
+PRJNA407954,DNS-seq in Zea mays W22,Florida State University,1,2,WGS,0.04,1,1,0,1,0,0,33.0
+PRJNA267560,Zea mays Epigenomics,University of Georgia,1,3,OTHER,0.01,1,1,0,1,0,0,48.0
+PRJNA412222,"Zea mays B73, seedling root tip (0-3mm), whole genome sequencing from 2C and 8C sorted nuc",nan,2,6,WGS,0.04,1,1,0,1,0,0,48.0
+PRJNA417725,Zea mays isolate:Immature ear and Shoot | cultivar:B73 Genome sequencing,SUB3204009,2,4,OTHER,0.08,1,1,0,1,0,0,48.0
+PRJNA417726,Zea mays isolate:Immature ear and Shoot | cultivar:B73 Raw sequence reads,China Agricultural University,2,10,OTHER,1.05,1,1,0,1,0,0,48.0
+PRJNA432962,Zea mays strain:NC350 | isolate:Ames 27171 Genome sequencing and assembly,nan,1,2,WGS,0.12,1,1,0,1,0,0,34.0
+PRJNA448931,PHJ89 Genome Assembly and Annotation - Raw Reads,SUB3875964,1,5,WGS,0.32,1,1,0,1,0,0,29.0
+PRJNA455899,Zea mays B73 Exome Capture - B73,nan,1,1,WXS,0.0,1,1,0,0,0,0,48.0
+PRJNA455900,Zea mays B73 Exome Capture - B73.2,nan,1,1,WXS,0.0,1,1,0,0,0,0,48.0
+PRJNA455901,Zea mays B73 Exome Capture - B73.3,nan,1,1,WXS,0.0,1,1,0,0,0,0,48.0
+PRJNA359093,Zea mays,nan,27,27,OTHER,0.02,26,14,12,0,0,0,32.5
+PRJNA358597,Zea mays,nan,234,234,OTHER,0.07,2,2,0,0,0,0,47.0
+PRJNA358298,Zea mays Mo17 Genome sequencing and assembly,nan,1,38,WGS,0.44,1,1,0,1,0,0,46.0
+PRJNA344581,Zea mays Raw sequence reads from whole-genome sequencing of Clt1-1 mutant,SUB1980237,2,2,WGS,0.04,1,1,0,1,0,0,48.0
+PRJNA277474,Zea mays Exome,Iowa State University,27,38,WXS,0.21,26,14,12,3,0,0,32.5
+PRJNA326677,Several angiosperm plants ddRAD-seq raw sequence reads,nan,1,1,OTHER,0.0,1,1,0,0,0,0,48.0
+PRJNA327875,Zea mays,nan,7,18,OTHER,0.15,1,1,0,1,0,0,48.0
+PRJNA332944,Zea mays strain:LH185 | cultivar:LH185 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,28.0
+PRJNA332946,Zea mays strain:LH200 | cultivar:LH200 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,29.0
+PRJNA332949,Zea mays strain:LH82 | cultivar:LH82 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,34.0
+PRJNA332952,Zea mays strain:PHJ89 | cultivar:PHJ89 Genome sequencing,nan,1,2,WGS,0.16,1,1,0,1,0,0,29.0
+PRJNA332957,Zea mays strain:PHMK0 | cultivar:PHMK0 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,29.0
+PRJNA332958,Zea mays strain:PHN46 | cultivar:PHN46 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,30.0
+PRJNA332959,Zea mays strain:PHP02 | cultivar:PHP02 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,20.0
+PRJNA332962,Zea mays strain:PHT11 | cultivar:PHT11 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,30.0
+PRJNA332963,Zea mays strain:PHV78 | cultivar:PHV78 Genome sequencing,nan,1,1,WGS,0.05,1,1,0,1,0,0,30.0
+PRJEB30082,Heterosis study using three maize hybrids,National Center for Gene Research;Chines,6,6,WGS,0.53,2,2,0,2,0,0,47.0
+PRJNA337488,Zea mays cultivar:Mo17 Genome sequencing,nan,1,72,WGS,0.16,1,1,0,1,0,0,46.0
+PRJNA338015,Single sperms sequencing of Maize B73 and one BC2F6 line,SUB1746007,102,102,WGA,0.19,1,1,0,0,0,0,48.0
+PRJNA338953,PCR-free Illumina genome sequencing data of B73 and Mo17,SUB1769215,4,4,WGS,0.22,2,2,0,2,0,0,47.0
+PRJNA343134,Zea mays ssp. parviglumis Genome sequencing and assembly,SUB1947272,1,9,WGS,0.4,1,0,1,1,1,0,
+PRJNA987991,Expansion and improvement of ChinaMu by MuT-seq and chromosome-level assembly of the Mu-st,SUB13579490,45,46,OTHER;WGS,0.45,2,1,1,2,1,0,48.0
